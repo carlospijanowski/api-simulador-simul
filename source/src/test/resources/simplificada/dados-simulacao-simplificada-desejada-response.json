@@ -1,0 +1,262 @@
+{
+	"prazos": [
+		{
+			"subsidio": null,
+			"parcelas": 1,
+			"valor-parcela": 29319.16,
+			"valor-parcela-residual": null,
+			"valor-iof": 506.77,
+			"valor-cet-anual": 31.62,
+			"valor-taxa-mes": 1.17,
+			"valor-taxa-anual": 14.93,
+			"valor-total-financiado": 27348.67,
+			"valor-seguro-auto-parcela": 0.0,
+			"valor-seguro-prestamista-parcela": 0.0,
+			"tipo-seguro-prestamista": "NENHUM",
+			"valor-seguro-prestamista": 0.0,
+			"svp-limite-extrapolado": null,
+			"spf-limite-extrapolado": false,
+			"itens-financiaveis": [
+				{
+					"codigo": 3,
+					"valor": 215.0,
+					"descricao": "BANDEJA DE PORTA-MALAS",
+					"valor-parcela": 234.84
+				},
+				{
+					"codigo": 3,
+					"valor": 159.99,
+					"descricao": "CALHA DE CHUVA",
+					"valor-parcela": 174.76
+				},
+				{
+					"codigo": 3,
+					"valor": 209.99,
+					"descricao": "FRISO LATERAL",
+					"valor-parcela": 229.37
+				}
+			],
+			"valor-subsidio-usado": null,
+			"taxa-subsidio-usada": null,
+			"valor-total-prazo": 59319.16,
+			"fluxo": null,
+			"porcentagem-parcela-residual": null
+		},
+		{
+			"subsidio": null,
+			"parcelas": 2,
+			"valor-parcela": 15307.52,
+			"valor-parcela-residual": null,
+			"valor-iof": 709.54,
+			"valor-cet-anual": 27.44,
+			"valor-taxa-mes": 1.19,
+			"valor-taxa-anual": 15.19,
+			"valor-total-financiado": 27551.44,
+			"valor-seguro-auto-parcela": 0.0,
+			"valor-seguro-prestamista-parcela": 0.0,
+			"tipo-seguro-prestamista": "NENHUM",
+			"valor-seguro-prestamista": 0.0,
+			"svp-limite-extrapolado": null,
+			"spf-limite-extrapolado": false,
+			"itens-financiaveis": [
+				{
+					"codigo": 3,
+					"valor": 215.0,
+					"descricao": "BANDEJA DE PORTA-MALAS",
+					"valor-parcela": 122.61
+				},
+				{
+					"codigo": 3,
+					"valor": 159.99,
+					"descricao": "CALHA DE CHUVA",
+					"valor-parcela": 91.24
+				},
+				{
+					"codigo": 3,
+					"valor": 209.99,
+					"descricao": "FRISO LATERAL",
+					"valor-parcela": 119.75
+				}
+			],
+			"valor-subsidio-usado": null,
+			"taxa-subsidio-usada": null,
+			"valor-total-prazo": 60615.04,
+			"fluxo": null,
+			"porcentagem-parcela-residual": null
+		},
+		{
+			"subsidio": null,
+			"parcelas": 3,
+			"valor-parcela": 10492.21,
+			"valor-parcela-residual": null,
+			"valor-iof": 778.35,
+			"valor-cet-anual": 23.56,
+			"valor-taxa-mes": 1.11,
+			"valor-taxa-anual": 14.13,
+			"valor-total-financiado": 27620.25,
+			"valor-seguro-auto-parcela": 0.0,
+			"valor-seguro-prestamista-parcela": 0.0,
+			"tipo-seguro-prestamista": "NENHUM",
+			"valor-seguro-prestamista": 0.0,
+			"svp-limite-extrapolado": null,
+			"spf-limite-extrapolado": false,
+			"itens-financiaveis": [
+				{
+					"codigo": 3,
+					"valor": 215.0,
+					"descricao": "BANDEJA DE PORTA-MALAS",
+					"valor-parcela": 84.04
+				},
+				{
+					"codigo": 3,
+					"valor": 159.99,
+					"descricao": "CALHA DE CHUVA",
+					"valor-parcela": 62.54
+				},
+				{
+					"codigo": 3,
+					"valor": 209.99,
+					"descricao": "FRISO LATERAL",
+					"valor-parcela": 82.08
+				}
+			],
+			"valor-subsidio-usado": null,
+			"taxa-subsidio-usada": null,
+			"valor-total-prazo": 61476.63,
+			"fluxo": null,
+			"porcentagem-parcela-residual": null
+		},
+		{
+			"subsidio": null,
+			"parcelas": 4,
+			"valor-parcela": 8087.97,
+			"valor-parcela-residual": null,
+			"valor-iof": 812.96,
+			"valor-cet-anual": 21.25,
+			"valor-taxa-mes": 1.07,
+			"valor-taxa-anual": 13.6,
+			"valor-total-financiado": 27654.86,
+			"valor-seguro-auto-parcela": 0.0,
+			"valor-seguro-prestamista-parcela": 0.0,
+			"tipo-seguro-prestamista": "NENHUM",
+			"valor-seguro-prestamista": 0.0,
+			"svp-limite-extrapolado": null,
+			"spf-limite-extrapolado": false,
+			"itens-financiaveis": [
+				{
+					"codigo": 3,
+					"valor": 215.0,
+					"descricao": "BANDEJA DE PORTA-MALAS",
+					"valor-parcela": 64.78
+				},
+				{
+					"codigo": 3,
+					"valor": 159.99,
+					"descricao": "CALHA DE CHUVA",
+					"valor-parcela": 48.21
+				},
+				{
+					"codigo": 3,
+					"valor": 209.99,
+					"descricao": "FRISO LATERAL",
+					"valor-parcela": 63.27
+				}
+			],
+			"valor-subsidio-usado": null,
+			"taxa-subsidio-usada": null,
+			"valor-total-prazo": 62351.87,
+			"fluxo": null,
+			"porcentagem-parcela-residual": null
+		},
+		{
+			"subsidio": null,
+			"parcelas": 5,
+			"valor-parcela": 6648.5,
+			"valor-parcela-residual": null,
+			"valor-iof": 833.75,
+			"valor-cet-anual": 19.75,
+			"valor-taxa-mes": 1.05,
+			"valor-taxa-anual": 13.29,
+			"valor-total-financiado": 27675.65,
+			"valor-seguro-auto-parcela": 0.0,
+			"valor-seguro-prestamista-parcela": 0.0,
+			"tipo-seguro-prestamista": "NENHUM",
+			"valor-seguro-prestamista": 0.0,
+			"svp-limite-extrapolado": null,
+			"spf-limite-extrapolado": false,
+			"itens-financiaveis": [
+				{
+					"codigo": 3,
+					"valor": 215.0,
+					"descricao": "BANDEJA DE PORTA-MALAS",
+					"valor-parcela": 53.25
+				},
+				{
+					"codigo": 3,
+					"valor": 159.99,
+					"descricao": "CALHA DE CHUVA",
+					"valor-parcela": 39.63
+				},
+				{
+					"codigo": 3,
+					"valor": 209.99,
+					"descricao": "FRISO LATERAL",
+					"valor-parcela": 52.01
+				}
+			],
+			"valor-subsidio-usado": null,
+			"taxa-subsidio-usada": null,
+			"valor-total-prazo": 63242.51,
+			"fluxo": null,
+			"porcentagem-parcela-residual": null
+		},
+		{
+			"subsidio": null,
+			"parcelas": 6,
+			"valor-parcela": 5690.46,
+			"valor-parcela-residual": null,
+			"valor-iof": 847.62,
+			"valor-cet-anual": 18.67,
+			"valor-taxa-mes": 1.03,
+			"valor-taxa-anual": 13.07,
+			"valor-total-financiado": 27689.52,
+			"valor-seguro-auto-parcela": 0.0,
+			"valor-seguro-prestamista-parcela": 0.0,
+			"tipo-seguro-prestamista": "NENHUM",
+			"valor-seguro-prestamista": 0.0,
+			"svp-limite-extrapolado": null,
+			"spf-limite-extrapolado": false,
+			"itens-financiaveis": [
+				{
+					"codigo": 3,
+					"valor": 215.0,
+					"descricao": "BANDEJA DE PORTA-MALAS",
+					"valor-parcela": 45.58
+				},
+				{
+					"codigo": 3,
+					"valor": 159.99,
+					"descricao": "CALHA DE CHUVA",
+					"valor-parcela": 33.92
+				},
+				{
+					"codigo": 3,
+					"valor": 209.99,
+					"descricao": "FRISO LATERAL",
+					"valor-parcela": 44.52
+				}
+			],
+			"valor-subsidio-usado": null,
+			"taxa-subsidio-usada": null,
+			"valor-total-prazo": 64142.78,
+			"fluxo": null,
+			"porcentagem-parcela-residual": null
+		}
+	],
+	"request": null,
+	"valor-atingido": false,
+	"valor-registro-contrato": 156.92,
+	"valor-cesta-servico": 550.0,
+	"valor-tarifa-cadastro": 550.0,
+	"codigo-simulacao": null
+}

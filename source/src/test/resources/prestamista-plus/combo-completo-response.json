@@ -1,0 +1,94 @@
+{
+     "combo":{
+	 "descricao": "COMBO 3",
+        "lojas": [
+            {
+                "codigo": "877",
+                "cnpj": "90194801433741",
+                "nome": "ADENILZE HIDESHIMA MUNDO"
+            },
+            {
+                "codigo": "569",
+                "cnpj": "38625394439105",
+                "nome": "AGÁPÊ DISTRIB"
+            }
+        ],
+        "itens": [
+            {
+                "ordenacao": 1,
+                "tipo": "SPF",
+                "descricao": "SPF 0.003",
+                "item-id": 10006,
+                "prazo-inicio": 12,
+                "prazo-final": 22,
+                "fator-prestamista": 0.003,
+                "forma-calculo-descricao": "Sobre Valor Financiado e Quantidade de Parcelas",
+                "forma-calculo-valor": "VLR_FINANCIADO_PARCELAS",
+                "inicio-vigencia": "20210701",
+                "final-vigencia": null,
+                "tempo-maximo-contrato": 3,
+                "valor-limite-parcela": 5000.0,
+                "valor-maximo-financiamento-contrato": 1000000.0,
+                "percentual-iof-spf": 20.0,
+                "percentual-pro-labore": 3.0,
+                "fator-morte": 2.0,
+                "fator-invalidez": 0.004523,
+                "fator-desemprego": 0.006,
+                "idade-minima": 24,
+                "idade-maxima": 75,
+                "valor-maximo-por-cliente": 788888.0
+            },
+            {
+                "ordenacao": 2,
+                "tipo": "SVP",
+                "descricao": "SVP 0.00546",
+                "item-id": 10007,
+                "prazo-inicio": 13,
+                "prazo-final": 23,
+                "fator-prestamista": 0.00546,
+                "forma-calculo-descricao": "Sobre Valor Financiado",
+                "forma-calculo-valor": "VLR_FINANCIADO",
+                "inicio-vigencia": "20210701",
+                "final-vigencia": null,
+                "tempo-maximo-contrato": 4,
+                "valor-limite-parcela": 0.0,
+                "valor-maximo-financiamento-contrato": 500000.0,
+                "percentual-iof-spf": 13.5,
+                "percentual-pro-labore": 3.21,
+                "fator-morte": 0.00687,
+                "fator-invalidez": 2.14E-4,
+                "fator-desemprego": 0.0,
+                "idade-minima": 18,
+                "idade-maxima": 65,
+                "valor-maximo-por-cliente": 500000.0
+            },
+            {
+                "ordenacao": 3,
+                "tipo": "SVP",
+                "descricao": "SVP 0.0",
+                "item-id": 10008,
+                "prazo-inicio": 0,
+                "prazo-final": 15,
+                "fator-prestamista": 0.001,
+                "forma-calculo-descricao": "Sobre Valor Financiado",
+                "forma-calculo-valor": "VLR_FINANCIADO",
+                "inicio-vigencia": "20210701",
+                "final-vigencia": null,
+                "tempo-maximo-contrato": 2,
+                "valor-limite-parcela": 0.0,
+                "valor-maximo-financiamento-contrato": 300000.0,
+                "percentual-iof-spf": 0.05,
+                "percentual-pro-labore": 0.02,
+                "fator-morte": 3.0E-4,
+                "fator-invalidez": 0.005,
+                "fator-desemprego": 0.0,
+                "idade-minima": 18,
+                "idade-maxima": 72,
+                "valor-maximo-por-cliente": 500000.0
+            }
+        ],
+        "combo-id": 10003,
+        "combo-default": false,
+        "data-inicio": "20210701"
+}
+}

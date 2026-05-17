@@ -1,0 +1,56 @@
+{
+  "periodicidade": 1,
+  "parcelas": [
+    48
+  ],
+  "origemNegocio": {
+    "codigo": "237",
+    "cnpj": "12239870439590",
+    "estado": "CE",
+    "codigo-regiao": "REGIAO NORDESTE",
+    "spf-disponivel": true,
+    "svp-disponivel": true,
+    "svp-se-spf-removido": true
+  },
+  "cpfProponente": "15254998156",
+  "valor-parcela-desejada": 9607.81,
+  "data-nascimento": "19820410",
+  "carencia-do-plano": {
+    "minimo": 10,
+    "maximo": 190
+  },
+  "valor-uf-emplacamento": 351.25,
+  "data-primeiro-vencimento": "20220917",
+  "vencimento-30-dias": true,
+  "valor-bem": 380000.0,
+  "valor-entrada": 76400.0,
+  "valor-cesta-servicos": 550.00,
+  "valor-taxa-cadastro": 550.00,
+  "retorno": "5",
+  "plano-id": 4345,
+  "tipo-pessoa": "pessoa-fisica",
+  "isenta-iof": "N",
+  "vencimento-n-dias": true,
+  "parametros-seguro-prestamista": {
+    "spf-removido": false,
+    "svp-removido": false,
+    "spf-disponivel": true,
+    "svp-disponivel": true,
+    "svp-se-spf-removido": true,
+    "spf-valor-comprometido": 0.0,
+    "svp-valor-comprometido": 329923.18,
+    "valor-original-total-financiado": 329923.18,
+    "seguro-prestamista-escolhido": "SVP",
+    "permite-spf-com-base-numero-contratos": true,
+    "permite-svp-com-base-numero-contratos": true,
+    "cnpj-origem-negocio": "12239870439590",
+    "id-seguro-escolhido": 3
+  },
+  "itens-financiaveis": [
+    {
+      "codigo": 3,
+      "valor": 10215.0
+    }
+  ],
+  "simulacao-interna": true
+}

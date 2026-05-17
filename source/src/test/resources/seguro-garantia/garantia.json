@@ -1,0 +1,59 @@
+{
+  "combo":{
+    "id":4,
+    "descricao":"COMBO PADRÃO",
+    "combo-default":true,
+    "data-inicio":"2024-10-21T03:00:00.000+00:00",
+    "cnpj-seguradora":"08279191000184",
+    "itens":[
+      {
+        "id":2,
+        "descricao":"Item 1",
+        "importancia-segurada":null,
+        "premio-net":1522.0,
+        "premio-total":2305.83,
+        "prazo-seguro":12,
+        "comissao":1.0,
+        "iof":50.0,
+        "inicio-vigencia":"14/10/2024",
+        "fim-vigencia":"31/10/2034",
+        "categoria":"Toyota Leves Nacional",
+        "valor-premio-liquido":268.21,
+        "tipo-contratacao":null,
+        "itens-ativos":true
+      },
+      {
+        "id":4,
+        "descricao":"Item 4",
+        "importancia-segurada":null,
+        "premio-net":1122.0,
+        "premio-total":2405.83,
+        "prazo-seguro":12,
+        "comissao":1.0,
+        "iof":50.0,
+        "inicio-vigencia":"14/10/2024",
+        "fim-vigencia":"31/10/2034",
+        "categoria":"Toyota Leves Nacional",
+        "valor-premio-liquido":218.21,
+        "tipo-contratacao":null,
+        "itens-ativos":true
+      },
+      {
+        "id":5,
+        "descricao":"Item 5",
+        "importancia-segurada":null,
+        "premio-net":1722.0,
+        "premio-total":2505.83,
+        "prazo-seguro":12,
+        "comissao":1.0,
+        "iof":50.0,
+        "inicio-vigencia":"14/10/2024",
+        "fim-vigencia":"31/10/2034",
+        "categoria":"Toyota Leves Nacional",
+        "valor-premio-liquido":298.21,
+        "tipo-contratacao":null,
+        "itens-ativos":true
+      }
+    ]
+  }
+}

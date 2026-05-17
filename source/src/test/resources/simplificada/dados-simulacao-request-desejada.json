@@ -1,0 +1,60 @@
+{
+	"periodicidade": 1,
+	"parcelas": null,
+	"origemNegocio": null,
+	"cpfProponente": null,
+	"modalidade": null,
+	"valor-parcela-desejada": null,
+	"data-nascimento": null,
+	"carencia-do-plano": {
+		"minimo": 10,
+		"maximo": 200
+	},
+	"valor-uf-emplacamento": 156.92,
+	"data-primeiro-vencimento": null,
+	"vencimento-30-dias": null,
+	"valor-bem": 55000,
+	"valor-entrada": 30000,
+	"valor-cesta-servicos": 550.0,
+	"valor-taxa-cadastro": 550.0,
+	"retorno": "1",
+	"plano-id": 3355,
+	"tipo-pessoa": "pessoa-fisica",
+	"isenta-iof": "N",
+	"vencimento-n-dias": true,
+	"taxa-subsidio": null,
+	"parametros-seguro-prestamista": {
+		"spf-removido": true,
+		"svp-removido": true,
+		"spf-disponivel": true,
+		"svp-disponivel": false,
+		"svp-se-spf-removido": false,
+		"spf-valor-comprometido": 0,
+		"svp-valor-comprometido": 0,
+		"valor-original-total-financiado": null,
+		"seguro-prestamista-escolhido": null
+	},
+	"itens-financiaveis": [
+		{
+			"codigo": 3,
+			"valor": 215.0,
+			"descricao": "BANDEJA DE PORTA-MALAS",
+			"valor-parcela": null
+		},
+		{
+			"codigo": 3,
+			"valor": 159.99,
+			"descricao": "CALHA DE CHUVA",
+			"valor-parcela": null
+		},
+		{
+			"codigo": 3,
+			"valor": 209.99,
+			"descricao": "FRISO LATERAL",
+			"valor-parcela": null
+		}
+	],
+	"seguro-auto": 0,
+	"data-calculo": null,
+	"taxa-mes": null
+}

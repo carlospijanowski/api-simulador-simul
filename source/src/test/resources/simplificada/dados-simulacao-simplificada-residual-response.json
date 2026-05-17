@@ -1,0 +1,33 @@
+{
+	"prazos": [
+		{
+			"subsidio": null,
+			"parcelas": 12,
+			"valor-parcela": 1199.72,
+			"valor-parcela-residual": 15000.0,
+			"valor-iof": 719.78,
+			"valor-cet-anual": 23.61,
+			"valor-taxa-mes": 0.93,
+			"valor-taxa-anual": 11.8,
+			"valor-total-financiado": 26976.7,
+			"valor-seguro-auto-parcela": 0.0,
+			"valor-seguro-prestamista-parcela": 0.0,
+			"tipo-seguro-prestamista": "NENHUM",
+			"valor-seguro-prestamista": 0.0,
+			"svp-limite-extrapolado": null,
+			"spf-limite-extrapolado": false,
+			"itens-financiaveis": null,
+			"valor-subsidio-usado": null,
+			"taxa-subsidio-usada": null,
+			"valor-total-prazo": 59396.59,
+			"fluxo": [],
+			"porcentagem-parcela-residual": 27.27
+		}
+	],
+	"request": null,
+	"valor-atingido": false,
+	"valor-registro-contrato": 156.92,
+	"valor-cesta-servico": 550.0,
+	"valor-tarifa-cadastro": 550.0,
+	"codigo-simulacao": null
+}

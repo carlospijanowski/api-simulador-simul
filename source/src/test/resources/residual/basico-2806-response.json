@@ -1,0 +1,6 @@
+[
+  {"parcelas":12,"valor-parcela":5465.59,"valor-parcela-residual":20000.00 ,"valor-iof":1652.94,"valor-cet-anual":34.85,"valor-taxa-mes":1.95,"valor-taxa-anual":26.09,"valor-total-financiado":73836.89,"valor-seguro-auto-parcela":0.00,"valor-seguro-prestamista-parcela":82.28,"tipo-seguro-prestamista":"SVP","valor-seguro-prestamista":855.94 ,"svp-limite-extrapolado":false,"spf-limite-extrapolado":true,"valor-total-prazo":115587.05},
+  {"parcelas":24,"valor-parcela":3282.63,"valor-parcela-residual":20000.00 ,"valor-iof":1993.60,"valor-cet-anual":32.65,"valor-taxa-mes":2.03,"valor-taxa-anual":27.34,"valor-total-financiado":74177.56,"valor-seguro-auto-parcela":0.00,"valor-seguro-prestamista-parcela":46.62,"tipo-seguro-prestamista":"SVP","valor-seguro-prestamista":855.94 ,"svp-limite-extrapolado":false,"spf-limite-extrapolado":true,"valor-total-prazo":128783.18},
+  {"parcelas":36,"valor-parcela":2527.60,"valor-parcela-residual":20000.00 ,"valor-iof":2109.59,"valor-cet-anual":30.65,"valor-taxa-mes":2.00,"valor-taxa-anual":26.76,"valor-total-financiado":74293.55,"valor-seguro-auto-parcela":0.00,"valor-seguro-prestamista-parcela":34.51,"tipo-seguro-prestamista":"SVP","valor-seguro-prestamista":855.94 ,"svp-limite-extrapolado":false,"spf-limite-extrapolado":true,"valor-total-prazo":140993.70}
+]
+

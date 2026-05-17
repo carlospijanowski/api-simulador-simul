@@ -1,0 +1,43 @@
+{
+   "parametros-seguro-prestamista":{
+      "permite-spf-com-base-numero-contratos":true,
+      "permite-svp-com-base-numero-contratos":true,
+      "spf-removido":false,
+      "svp-removido":false,
+      "spf-disponivel":true,
+      "svp-disponivel":true,
+      "svp-se-spf-removido":true,
+      "spf-valor-comprometido":246587.11,
+      "svp-valor-comprometido":220099.38,
+	  "seguros-prestamistas-excluidos":[10006],
+	  "cnpj-origem-negocio":"38625394439105"
+   },
+   "data-nascimento":"19850110",
+   "tipo-pessoa":"pessoa-fisica",
+   "retorno":"0",
+   "plano-id":"2806",
+   "modalidade":"ciclo-toyota",
+   "periodicidade":1,
+   "carencia-do-plano":{
+      "minimo":10,
+      "maximo":190
+   },
+   "valor-seguro-franquia": 1200,
+   "valor-uf-emplacamento":351.25,
+   "valor-taxa-cadastro":550,
+   "valor-cesta-servicos":550,
+   "vencimento-n-dias":true,
+   "parcelas-intermediarias":null,
+   "valor-bem":100000,
+   "valor-entrada":30000,
+   "valor-parcela-desejada":1200,
+   "permite-balao":true,
+   "itens-financiaveis":[
+
+   ],
+   "seguro-auto":null,
+   "isenta-iof":"N",
+   "rating":null ,
+   "origem-solicitacao":"DIRECT",
+   "cnpj-origem-negocio":"91919940439101"
+}

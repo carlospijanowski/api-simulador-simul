@@ -1,0 +1,5 @@
+[ 
+  {"parcelas":12,"valor-parcela":1893.05,"valor-parcela-residual":40000.00 ,"valor-iof":1478.51,"valor-cet-anual":33.39,"valor-taxa-mes":1.85,"valor-taxa-anual":24.61,"valor-total-financiado":52306.53,"valor-seguro-auto-parcela":0.00,"valor-seguro-prestamista-parcela":0.00,"tipo-seguro-prestamista":"NENHUM","valor-seguro-prestamista":0.00 ,"porcentagem-parcela-residual":40.00},
+  {"parcelas":24,"valor-parcela":1500.00,"valor-parcela-residual":34902.03 ,"valor-iof":1530.99,"valor-cet-anual":27.85,"valor-taxa-mes":1.73,"valor-taxa-anual":22.89,"valor-total-financiado":52359.01,"valor-seguro-auto-parcela":0.00,"valor-seguro-prestamista-parcela":0.00,"tipo-seguro-prestamista":"NENHUM","valor-seguro-prestamista":0.00 ,"porcentagem-parcela-residual":34.90},
+  {"parcelas":36,"valor-parcela":1500.00,"valor-parcela-residual":31041.46 ,"valor-iof":1531.62,"valor-cet-anual":32.32,"valor-taxa-mes":2.10,"valor-taxa-anual":28.27,"valor-total-financiado":52359.64,"valor-seguro-auto-parcela":0.00,"valor-seguro-prestamista-parcela":0.00,"tipo-seguro-prestamista":"NENHUM","valor-seguro-prestamista":0.00 ,"porcentagem-parcela-residual":31.04}
+]

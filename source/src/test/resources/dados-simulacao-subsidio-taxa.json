@@ -1,0 +1,36 @@
+{
+  "idSimulacao": "RESIDUAL",
+  "numeroProposta": "1",
+  "taxaIOFAA": "0.030000",
+  "taxaIOFAD": "0.003800",
+  "taxaBanco": "0.0122",
+  "periodicidade": "1",
+  "produto": "OV",
+  "taxaOperacao": "0.012199",
+
+  // Quando o tipo de operação é TAXA o campo valorSubsidio não é usado, mas o valor calculado é retornado no objeto
+  // ResultadoCalculadoEx.
+  "valorSubsidio": "0",
+
+  "prazo": "24",
+  "retorno": "S",
+  "tarifaCesta": "500",
+  "tarifaTC": "550",
+  "registroContrato": "278.02",
+  "dataSimulacaoYYYYMMDD": "20190116",
+  "data1VencimentoYYYYMMDD": "20190216",
+  "valorBem": "100000",
+  "valorSeguro": "2068.5125800",
+  "valorEntrada": "30000",
+  "temIsencaoIOF": "N",
+  "valorVrgFinal": "0",
+  "baseCalculoIof": "365",
+  "parcelasBalao": [
+    {
+      "valorParcela": "36759.70",
+      "dataParcelaYYYYMMDD": "20210116"
+    }
+  ],
+  "acessorio": "0",
+  "tipoCalculo": "TAXA"
+}

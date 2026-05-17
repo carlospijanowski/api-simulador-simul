@@ -1,0 +1,44 @@
+{
+  "parametros-seguro-prestamista": {
+    "permite-spf-com-base-numero-contratos": true,
+    "permite-svp-com-base-numero-contratos": true,
+    "spf-removido": false,
+    "svp-removido": false,
+    "spf-disponivel": true,
+    "svp-disponivel": true,
+    "svp-se-spf-removido": true,
+    "seguros-prestamistas-excluidos": [],
+    "spf-valor-comprometido": 0,
+    "svp-valor-comprometido": 0,
+    "cnpj-origem-negocio": "91919940439101",
+    "seguro-prestamista-escolhido": "SPF",
+    "id-seguro-escolhido": null
+  },
+  "valor-seguro-franquia": 12000,
+  "data-nascimento": "19760922",
+  "tipo-pessoa": "pessoa-fisica",
+  "retorno": "0",
+  "plano-id": "4211",
+  "modalidade": "cdc",
+  "periodicidade": 1,
+  "carencia-do-plano": {
+    "minimo": 10,
+    "maximo": 190
+  },
+  "valor-uf-emplacamento": 364.59,
+  "valor-taxa-cadastro": 550,
+  "valor-cesta-servicos": 550,
+  "vencimento-n-dias": true,
+  "valor-bem": 100000,
+  "valor-entrada": 20000,
+  "valor-parcela-desejada": 3000,
+  "permite-balao": true,
+  "itens-financiaveis": [],
+  "seguro-auto": null,
+  "isenta-iof": "N",
+  "valor-parcela-residual": null,
+  "prazo-selecionado": null,
+  "parcelas": [
+    36
+  ]
+}

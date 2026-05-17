@@ -1,0 +1,267 @@
+{
+  "simulacoes": [
+    {
+      "parcelas": 1,
+      "valor-parcela": 46250.71,
+      "valor-iof": 805.03,
+      "valor-cet-anual": 33.44,
+      "valor-taxa-mes": 1.35,
+      "valor-taxa-anual": 17.46,
+      "valor-total-financiado": 42694.31,
+      "valor-seguro-auto-parcela": 0.00,
+      "valor-seguro-prestamista-parcela": 728.36,
+      "tipo-seguro-prestamista": "SPF",
+      "valor-seguro-prestamista": 659.67,
+      "svp-limite-extrapolado": false,
+      "spf-limite-extrapolado": true,
+      "itens-financiaveis": [
+        {
+          "codigo": 7,
+          "valor": 300,
+          "descricao": "TARIFA DE AVALIAÇÃO DO BEM",
+          "valor-parcela": 331.24
+        }
+      ],
+      "valor-total-prazo": 107250.71,
+      "fluxo": [
+        {
+          "parcelas": 0,
+          "data-vencimento": "30/04/2024",
+          "valor-parcela": 61000,
+          "valor-intermediaria": 0
+        },
+        {
+          "parcelas": 1,
+          "data-vencimento": "01/11/2024",
+          "valor-parcela": 46250.71,
+          "valor-intermediaria": 0.00
+        }
+      ],
+      "dados-seguro-prestamista-utilizado": {
+        "tipo-seguro": "SPF",
+        "limite-parcela": 0.0,
+        "valor-maximo-contrato": 330000.0,
+        "valor-maximo-por-cliente": 990000.0,
+        "percentual-seguro": 0.016,
+        "idade-minima": 18,
+        "idade-maxima": 65,
+        "descricao": "SPF PLUS",
+        "fator-desemprego": 0.0,
+        "fator-invalidez": 5.0E-4,
+        "fator-morte": 0.0155,
+        "forma-calculo-descricao": "Sobre Valor Financiado",
+        "forma-calculo-valor": "VLR_FINANCIADO",
+        "inicio-vigencia": "20220701",
+        "item-id": 5,
+        "ordenacao": 1,
+        "percentual-iof-spf": 0.38,
+        "percentual-pro-labore": 30.0,
+        "prazo-final": 60,
+        "prazo-inicio": 1,
+        "tempo-maximo-contrato": 60
+      },
+      "dados-ultimo-seguro-prestamista-disponivel": {
+        "tipo-seguro": "SPF",
+        "limite-parcela": 3500.0,
+        "valor-maximo-contrato": 200000.0,
+        "valor-maximo-por-cliente": 600000.0,
+        "percentual-seguro": 0.05,
+        "idade-minima": 18,
+        "idade-maxima": 65,
+        "descricao": "SEGURO PROTEÇÃO FINANCEIRA",
+        "fator-desemprego": 0.0179,
+        "fator-invalidez": 9.0E-4,
+        "fator-morte": 0.0312,
+        "forma-calculo-descricao": "Sobre Valor Financiado",
+        "forma-calculo-valor": "VLR_FINANCIADO",
+        "inicio-vigencia": "20220701",
+        "item-id": 4,
+        "ordenacao": 1,
+        "percentual-iof-spf": 0.38,
+        "percentual-pro-labore": 21.0,
+        "prazo-final": 60,
+        "prazo-inicio": 1,
+        "tempo-maximo-contrato": 60
+      },
+      "valor-iof-adicional": 159.78,
+      "taxa-mensal-completa": 1.35000000,
+      "taxa-anual-completa": 17.45865800,
+      "valor-taxa-banco": 1.35
+    },
+    {
+      "parcelas": 1,
+      "valor-parcela": 46250.71,
+      "valor-iof": 805.03,
+      "valor-cet-anual": 33.44,
+      "valor-taxa-mes": 1.35,
+      "valor-taxa-anual": 17.46,
+      "valor-total-financiado": 42694.31,
+      "valor-seguro-auto-parcela": 0.00,
+      "valor-seguro-prestamista-parcela": 728.36,
+      "tipo-seguro-prestamista": "SVP",
+      "valor-seguro-prestamista": 659.67,
+      "svp-limite-extrapolado": false,
+      "spf-limite-extrapolado": true,
+      "itens-financiaveis": [
+        {
+          "codigo": 7,
+          "valor": 300,
+          "descricao": "TARIFA DE AVALIAÇÃO DO BEM",
+          "valor-parcela": 331.24
+        }
+      ],
+      "valor-total-prazo": 107250.71,
+      "fluxo": [
+        {
+          "parcelas": 0,
+          "data-vencimento": "30/04/2024",
+          "valor-parcela": 61000,
+          "valor-intermediaria": 0
+        },
+        {
+          "parcelas": 1,
+          "data-vencimento": "01/11/2024",
+          "valor-parcela": 46250.71,
+          "valor-intermediaria": 0.00
+        }
+      ],
+      "dados-seguro-prestamista-utilizado": {
+        "tipo-seguro": "SVP",
+        "limite-parcela": 0.0,
+        "valor-maximo-contrato": 330000.0,
+        "valor-maximo-por-cliente": 990000.0,
+        "percentual-seguro": 0.016,
+        "idade-minima": 18,
+        "idade-maxima": 65,
+        "descricao": "SEGURO VIDA PRESTAMISTA",
+        "fator-desemprego": 0.0,
+        "fator-invalidez": 5.0E-4,
+        "fator-morte": 0.0155,
+        "forma-calculo-descricao": "Sobre Valor Financiado",
+        "forma-calculo-valor": "VLR_FINANCIADO",
+        "inicio-vigencia": "20220701",
+        "item-id": 5,
+        "ordenacao": 2,
+        "percentual-iof-spf": 0.38,
+        "percentual-pro-labore": 30.0,
+        "prazo-final": 60,
+        "prazo-inicio": 1,
+        "tempo-maximo-contrato": 60
+      },
+      "dados-ultimo-seguro-prestamista-disponivel": {
+        "tipo-seguro": "SPF",
+        "limite-parcela": 3500.0,
+        "valor-maximo-contrato": 200000.0,
+        "valor-maximo-por-cliente": 600000.0,
+        "percentual-seguro": 0.029,
+        "idade-minima": 18,
+        "idade-maxima": 65,
+        "descricao": "SEGURO PROTEÇÃO FINANCEIRA",
+        "fator-desemprego": 0.0104,
+        "fator-invalidez": 5.0E-4,
+        "fator-morte": 0.0181,
+        "forma-calculo-descricao": "Sobre Valor Financiado",
+        "forma-calculo-valor": "VLR_FINANCIADO",
+        "inicio-vigencia": "20220701",
+        "item-id": 4,
+        "ordenacao": 2,
+        "percentual-iof-spf": 0.38,
+        "percentual-pro-labore": 31.0,
+        "prazo-final": 60,
+        "prazo-inicio": 1,
+        "tempo-maximo-contrato": 0
+      },
+      "valor-iof-adicional": 159.78,
+      "taxa-mensal-completa": 1.35000000,
+      "taxa-anual-completa": 17.45865800,
+      "valor-taxa-banco": 1.35
+    },
+    {
+      "parcelas": 1,
+      "valor-parcela": 46250.71,
+      "valor-iof": 805.03,
+      "valor-cet-anual": 33.44,
+      "valor-taxa-mes": 1.35,
+      "valor-taxa-anual": 17.46,
+      "valor-total-financiado": 42694.31,
+      "valor-seguro-auto-parcela": 0.00,
+      "valor-seguro-prestamista-parcela": 728.36,
+      "tipo-seguro-prestamista": "SVP",
+      "valor-seguro-prestamista": 659.67,
+      "svp-limite-extrapolado": false,
+      "itens-financiaveis": [
+        {
+          "codigo": 7,
+          "valor": 300,
+          "descricao": "TARIFA DE AVALIAÇÃO DO BEM",
+          "valor-parcela": 331.24
+        }
+      ],
+      "valor-total-prazo": 107250.71,
+      "fluxo": [
+        {
+          "parcelas": 0,
+          "data-vencimento": "30/04/2024",
+          "valor-parcela": 61000,
+          "valor-intermediaria": 0
+        },
+        {
+          "parcelas": 1,
+          "data-vencimento": "01/11/2024",
+          "valor-parcela": 46250.71,
+          "valor-intermediaria": 0.00
+        }
+      ],
+      "dados-seguro-prestamista-utilizado": {
+        "tipo-seguro": "SVP",
+        "limite-parcela": 0.0,
+        "valor-maximo-contrato": 330000.0,
+        "valor-maximo-por-cliente": 990000.0,
+        "percentual-seguro": 0.016,
+        "idade-minima": 18,
+        "idade-maxima": 65,
+        "descricao": "SEGURO VIDA PRESTAMISTA",
+        "fator-desemprego": 0.0,
+        "fator-invalidez": 5.0E-4,
+        "fator-morte": 0.0155,
+        "forma-calculo-descricao": "Sobre Valor Financiado",
+        "forma-calculo-valor": "VLR_FINANCIADO",
+        "inicio-vigencia": "20220701",
+        "item-id": 6,
+        "ordenacao": 3,
+        "percentual-iof-spf": 0.38,
+        "percentual-pro-labore": 30.0,
+        "prazo-final": 60,
+        "prazo-inicio": 1,
+        "tempo-maximo-contrato": 60
+      },
+      "dados-ultimo-seguro-prestamista-disponivel": {
+        "tipo-seguro": "SVP",
+        "limite-parcela": 0.0,
+        "valor-maximo-contrato": 330000.0,
+        "valor-maximo-por-cliente": 990000.0,
+        "percentual-seguro": 0.016,
+        "idade-minima": 18,
+        "idade-maxima": 65,
+        "descricao": "SEGURO VIDA PRESTAMISTA",
+        "fator-desemprego": 0.0,
+        "fator-invalidez": 5.0E-4,
+        "fator-morte": 0.0155,
+        "forma-calculo-descricao": "Sobre Valor Financiado",
+        "forma-calculo-valor": "VLR_FINANCIADO",
+        "inicio-vigencia": "20220701",
+        "item-id": 6,
+        "ordenacao": 3,
+        "percentual-iof-spf": 0.38,
+        "percentual-pro-labore": 30.0,
+        "prazo-final": 60,
+        "prazo-inicio": 1,
+        "tempo-maximo-contrato": 60
+      },
+      "valor-iof-adicional": 159.78,
+      "taxa-mensal-completa": 1.35000000,
+      "taxa-anual-completa": 17.45865800,
+      "valor-taxa-banco": 1.35
+    }
+  ]
+}

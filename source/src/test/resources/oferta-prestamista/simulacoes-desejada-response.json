@@ -1,0 +1,811 @@
+{
+  "simulacoes": [
+    {
+      "prazos": [
+        {
+          "parcelas": 32,
+          "valor-parcela": 3000.00,
+          "valor-parcela-residual": 20652.98,
+          "valor-iof": 2490.42,
+          "valor-cet-anual": 23.98,
+          "valor-taxa-mes": 1.54,
+          "valor-taxa-anual": 20.13,
+          "valor-total-financiado": 88012.92,
+          "valor-seguro-auto-parcela": 0.00,
+          "valor-seguro-prestamista-parcela": 166.71,
+          "tipo-seguro-prestamista": "SPF",
+          "valor-seguro-prestamista": 4072.50,
+          "spf-limite-extrapolado": false,
+          "valor-total-prazo": 136652.98,
+          "fluxo": [
+            {
+              "parcelas": 0,
+              "data-vencimento": "03/11/2022",
+              "valor-parcela": 20000,
+              "valor-intermediaria": 0
+            },
+            {
+              "parcelas": 1,
+              "data-vencimento": "03/12/2022",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 2,
+              "data-vencimento": "03/01/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 3,
+              "data-vencimento": "03/02/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 4,
+              "data-vencimento": "03/03/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 5,
+              "data-vencimento": "03/04/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 6,
+              "data-vencimento": "03/05/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 7,
+              "data-vencimento": "03/06/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 8,
+              "data-vencimento": "03/07/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 9,
+              "data-vencimento": "03/08/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 10,
+              "data-vencimento": "03/09/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 11,
+              "data-vencimento": "03/10/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 12,
+              "data-vencimento": "03/11/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 13,
+              "data-vencimento": "03/12/2023",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 14,
+              "data-vencimento": "03/01/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 15,
+              "data-vencimento": "03/02/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 16,
+              "data-vencimento": "03/03/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 17,
+              "data-vencimento": "03/04/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 18,
+              "data-vencimento": "03/05/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 19,
+              "data-vencimento": "03/06/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 20,
+              "data-vencimento": "03/07/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 21,
+              "data-vencimento": "03/08/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 22,
+              "data-vencimento": "03/09/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 23,
+              "data-vencimento": "03/10/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 24,
+              "data-vencimento": "03/11/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 25,
+              "data-vencimento": "03/12/2024",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 26,
+              "data-vencimento": "03/01/2025",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 27,
+              "data-vencimento": "03/02/2025",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 28,
+              "data-vencimento": "03/03/2025",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 29,
+              "data-vencimento": "03/04/2025",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 30,
+              "data-vencimento": "03/05/2025",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 31,
+              "data-vencimento": "03/06/2025",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 32,
+              "data-vencimento": "03/07/2025",
+              "valor-parcela": 3000.00,
+              "valor-intermediaria": 20652.98
+            }
+          ],
+          "porcentagem-parcela-residual": 20.65,
+          "dados-seguro-prestamista-utilizado": {
+            "tipo-seguro": "SPF",
+            "limite-parcela": 3500.0,
+            "valor-maximo-contrato": 200000.0,
+            "valor-maximo-por-cliente": 600000.0,
+            "percentual-seguro": 0.05,
+            "idade-minima": 18,
+            "idade-maxima": 65,
+            "descricao": "SPF PLUS",
+            "fator-desemprego": 0.0179,
+            "fator-invalidez": 9.0E-4,
+            "fator-morte": 0.0312,
+            "forma-calculo-descricao": "Sobre Valor Financiado",
+            "forma-calculo-valor": "VLR_FINANCIADO",
+            "inicio-vigencia": "20220701",
+            "item-id": 5,
+            "ordenacao": 1,
+            "percentual-iof-spf": 0.38,
+            "percentual-pro-labore": 21.0,
+            "prazo-final": 60,
+            "prazo-inicio": 1,
+            "tempo-maximo-contrato": 60
+          },
+          "dados-ultimo-seguro-prestamista-disponivel": {
+            "tipo-seguro": "SVP",
+            "limite-parcela": 0.0,
+            "valor-maximo-contrato": 330000.0,
+            "valor-maximo-por-cliente": 990000.0,
+            "percentual-seguro": 0.016,
+            "idade-minima": 18,
+            "idade-maxima": 65,
+            "descricao": "SEGURO VIDA PRESTAMISTA",
+            "fator-desemprego": 0.0,
+            "fator-invalidez": 5.0E-4,
+            "fator-morte": 0.0155,
+            "forma-calculo-descricao": "Sobre Valor Financiado",
+            "forma-calculo-valor": "VLR_FINANCIADO",
+            "inicio-vigencia": "20220701",
+            "item-id": 6,
+            "ordenacao": 3,
+            "percentual-iof-spf": 0.38,
+            "percentual-pro-labore": 30.0,
+            "prazo-final": 60,
+            "prazo-inicio": 1,
+            "tempo-maximo-contrato": 60
+          }
+        }
+      ],
+      "data-base": "20221103",
+      "valor-atingido": true
+    },
+    {
+      "prazos": [
+        {
+          "parcelas": 32,
+          "valor-parcela": 2945.82,
+          "valor-parcela-residual": 20000.00,
+          "valor-iof": 2439.66,
+          "valor-cet-anual": 24.01,
+          "valor-taxa-mes": 1.54,
+          "valor-taxa-anual": 20.13,
+          "valor-total-financiado": 86251.71,
+          "valor-seguro-auto-parcela": 0.00,
+          "valor-seguro-prestamista-parcela": 96.69,
+          "tipo-seguro-prestamista": "SPF",
+          "valor-seguro-prestamista": 2362.05,
+          "spf-limite-extrapolado": false,
+          "valor-total-prazo": 134266.24,
+          "fluxo": [
+            {
+              "parcelas": 0,
+              "data-vencimento": "03/11/2022",
+              "valor-parcela": 20000,
+              "valor-intermediaria": 0
+            },
+            {
+              "parcelas": 1,
+              "data-vencimento": "03/12/2022",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 2,
+              "data-vencimento": "03/01/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 3,
+              "data-vencimento": "03/02/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 4,
+              "data-vencimento": "03/03/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 5,
+              "data-vencimento": "03/04/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 6,
+              "data-vencimento": "03/05/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 7,
+              "data-vencimento": "03/06/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 8,
+              "data-vencimento": "03/07/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 9,
+              "data-vencimento": "03/08/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 10,
+              "data-vencimento": "03/09/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 11,
+              "data-vencimento": "03/10/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 12,
+              "data-vencimento": "03/11/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 13,
+              "data-vencimento": "03/12/2023",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 14,
+              "data-vencimento": "03/01/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 15,
+              "data-vencimento": "03/02/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 16,
+              "data-vencimento": "03/03/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 17,
+              "data-vencimento": "03/04/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 18,
+              "data-vencimento": "03/05/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 19,
+              "data-vencimento": "03/06/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 20,
+              "data-vencimento": "03/07/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 21,
+              "data-vencimento": "03/08/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 22,
+              "data-vencimento": "03/09/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 23,
+              "data-vencimento": "03/10/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 24,
+              "data-vencimento": "03/11/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 25,
+              "data-vencimento": "03/12/2024",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 26,
+              "data-vencimento": "03/01/2025",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 27,
+              "data-vencimento": "03/02/2025",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 28,
+              "data-vencimento": "03/03/2025",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 29,
+              "data-vencimento": "03/04/2025",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 30,
+              "data-vencimento": "03/05/2025",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 31,
+              "data-vencimento": "03/06/2025",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 32,
+              "data-vencimento": "03/07/2025",
+              "valor-parcela": 2945.82,
+              "valor-intermediaria": 20000.00
+            }
+          ],
+          "porcentagem-parcela-residual": 20.00,
+          "dados-seguro-prestamista-utilizado": {
+            "tipo-seguro": "SPF",
+            "limite-parcela": 3500.0,
+            "valor-maximo-contrato": 200000.0,
+            "valor-maximo-por-cliente": 600000.0,
+            "percentual-seguro": 0.029,
+            "idade-minima": 18,
+            "idade-maxima": 65,
+            "descricao": "SEGURO PROTEÇÃO FINANCEIRA",
+            "fator-desemprego": 0.0104,
+            "fator-invalidez": 5.0E-4,
+            "fator-morte": 0.0181,
+            "forma-calculo-descricao": "Sobre Valor Financiado",
+            "forma-calculo-valor": "VLR_FINANCIADO",
+            "inicio-vigencia": "20220701",
+            "item-id": 4,
+            "ordenacao": 2,
+            "percentual-iof-spf": 0.38,
+            "percentual-pro-labore": 31.0,
+            "prazo-final": 60,
+            "prazo-inicio": 1,
+            "tempo-maximo-contrato": 0
+          },
+          "dados-ultimo-seguro-prestamista-disponivel": {
+            "tipo-seguro": "SVP",
+            "limite-parcela": 0.0,
+            "valor-maximo-contrato": 330000.0,
+            "valor-maximo-por-cliente": 990000.0,
+            "percentual-seguro": 0.016,
+            "idade-minima": 18,
+            "idade-maxima": 65,
+            "descricao": "SEGURO VIDA PRESTAMISTA",
+            "fator-desemprego": 0.0,
+            "fator-invalidez": 5.0E-4,
+            "fator-morte": 0.0155,
+            "forma-calculo-descricao": "Sobre Valor Financiado",
+            "forma-calculo-valor": "VLR_FINANCIADO",
+            "inicio-vigencia": "20220701",
+            "item-id": 6,
+            "ordenacao": 3,
+            "percentual-iof-spf": 0.38,
+            "percentual-pro-labore": 30.0,
+            "prazo-final": 60,
+            "prazo-inicio": 1,
+            "tempo-maximo-contrato": 60
+          }
+        }
+      ],
+      "data-base": "20221103",
+      "valor-atingido": true
+    },
+    {
+      "prazos": [
+        {
+          "parcelas": 32,
+          "valor-parcela": 2902.47,
+          "valor-parcela-residual": 20000.00,
+          "valor-iof": 2409.84,
+          "valor-cet-anual": 24.03,
+          "valor-taxa-mes": 1.54,
+          "valor-taxa-anual": 20.13,
+          "valor-total-financiado": 85163.04,
+          "valor-seguro-auto-parcela": 0.00,
+          "valor-seguro-prestamista-parcela": 53.35,
+          "tipo-seguro-prestamista": "SVP",
+          "valor-seguro-prestamista": 1303.20,
+          "svp-limite-extrapolado": false,
+          "valor-total-prazo": 132879.18,
+          "fluxo": [
+            {
+              "parcelas": 0,
+              "data-vencimento": "03/11/2022",
+              "valor-parcela": 20000,
+              "valor-intermediaria": 0
+            },
+            {
+              "parcelas": 1,
+              "data-vencimento": "03/12/2022",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 2,
+              "data-vencimento": "03/01/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 3,
+              "data-vencimento": "03/02/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 4,
+              "data-vencimento": "03/03/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 5,
+              "data-vencimento": "03/04/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 6,
+              "data-vencimento": "03/05/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 7,
+              "data-vencimento": "03/06/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 8,
+              "data-vencimento": "03/07/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 9,
+              "data-vencimento": "03/08/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 10,
+              "data-vencimento": "03/09/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 11,
+              "data-vencimento": "03/10/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 12,
+              "data-vencimento": "03/11/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 13,
+              "data-vencimento": "03/12/2023",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 14,
+              "data-vencimento": "03/01/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 15,
+              "data-vencimento": "03/02/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 16,
+              "data-vencimento": "03/03/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 17,
+              "data-vencimento": "03/04/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 18,
+              "data-vencimento": "03/05/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 19,
+              "data-vencimento": "03/06/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 20,
+              "data-vencimento": "03/07/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 21,
+              "data-vencimento": "03/08/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 22,
+              "data-vencimento": "03/09/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 23,
+              "data-vencimento": "03/10/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 24,
+              "data-vencimento": "03/11/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 25,
+              "data-vencimento": "03/12/2024",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 26,
+              "data-vencimento": "03/01/2025",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 27,
+              "data-vencimento": "03/02/2025",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 28,
+              "data-vencimento": "03/03/2025",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 29,
+              "data-vencimento": "03/04/2025",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 30,
+              "data-vencimento": "03/05/2025",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 31,
+              "data-vencimento": "03/06/2025",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 0.00
+            },
+            {
+              "parcelas": 32,
+              "data-vencimento": "03/07/2025",
+              "valor-parcela": 2902.47,
+              "valor-intermediaria": 20000.00
+            }
+          ],
+          "porcentagem-parcela-residual": 20.00,
+          "dados-seguro-prestamista-utilizado": {
+            "tipo-seguro": "SVP",
+            "limite-parcela": 0.0,
+            "valor-maximo-contrato": 330000.0,
+            "valor-maximo-por-cliente": 990000.0,
+            "percentual-seguro": 0.016,
+            "idade-minima": 18,
+            "idade-maxima": 65,
+            "descricao": "SEGURO VIDA PRESTAMISTA",
+            "fator-desemprego": 0.0,
+            "fator-invalidez": 5.0E-4,
+            "fator-morte": 0.0155,
+            "forma-calculo-descricao": "Sobre Valor Financiado",
+            "forma-calculo-valor": "VLR_FINANCIADO",
+            "inicio-vigencia": "20220701",
+            "item-id": 6,
+            "ordenacao": 3,
+            "percentual-iof-spf": 0.38,
+            "percentual-pro-labore": 30.0,
+            "prazo-final": 60,
+            "prazo-inicio": 1,
+            "tempo-maximo-contrato": 60
+          },
+          "dados-ultimo-seguro-prestamista-disponivel": {
+            "tipo-seguro": "SVP",
+            "limite-parcela": 0.0,
+            "valor-maximo-contrato": 330000.0,
+            "valor-maximo-por-cliente": 990000.0,
+            "percentual-seguro": 0.016,
+            "idade-minima": 18,
+            "idade-maxima": 65,
+            "descricao": "SEGURO VIDA PRESTAMISTA",
+            "fator-desemprego": 0.0,
+            "fator-invalidez": 5.0E-4,
+            "fator-morte": 0.0155,
+            "forma-calculo-descricao": "Sobre Valor Financiado",
+            "forma-calculo-valor": "VLR_FINANCIADO",
+            "inicio-vigencia": "20220701",
+            "item-id": 6,
+            "ordenacao": 3,
+            "percentual-iof-spf": 0.38,
+            "percentual-pro-labore": 30.0,
+            "prazo-final": 60,
+            "prazo-inicio": 1,
+            "tempo-maximo-contrato": 60
+          }
+        }
+      ],
+      "data-base": "20221103",
+      "valor-atingido": true
+    }
+  ]
+}

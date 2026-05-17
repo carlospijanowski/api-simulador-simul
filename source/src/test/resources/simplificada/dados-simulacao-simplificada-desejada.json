@@ -1,0 +1,138 @@
+{
+	"codigo-simulacao": null,
+	"data-criacao": "2021-03-02 10:30:40.909",
+	"origem-solicitacao": "ABRADIT",
+	"session-id": "333133-35464-343uifadbe4d",
+	"entrada": {
+		"cliente-prospect": null,
+		"dealer": {
+			"cnpj-origem-negocio": "76280625439185",
+			"codigo-loja": "1234"
+		},
+		"veiculo-interesse": {
+			"ano-fabricacao": "2002",
+			"ano-modelo": "2002",
+			"codigo-fipe": "002010-9",
+			"marca-id": "002",
+			"marca-descricao": "TOYOTA",
+			"modelo-id": "002010",
+			"modelo-descricao": "CAMRY XLE 3.0 24V 186CV",
+			"codigo-molicar": "002010-9",
+			"valor-bem": 55000
+		},
+		"detalhe-simulacao": {
+			"data-primeiro-vencimento": null,
+			"modalidade-id": "CDC",
+			"situacao-veiculo": "0km",
+			"taxa-subsidio": null,
+			"tipo-pessoa": "PESSOA-FISICA",
+			"uf-emplacamento": "SP",
+			"valor-entrada": 30000,
+			"valor-parcela-desejada": 500,
+			"valor-parcela-residual": null,
+			"valor-subsidio": null,
+			"seguro-auto": 0,
+			"codigo-retorno": "1"
+		},
+		"itens-financiaveis": [
+			{
+				"codigo": 3,
+				"valor": 215.0,
+				"descricao": "BANDEJA DE PORTA-MALAS",
+				"valor-parcela": null
+			},
+			{
+				"codigo": 3,
+				"valor": 159.99,
+				"descricao": "CALHA DE CHUVA",
+				"valor-parcela": null
+			},
+			{
+				"codigo": 3,
+				"valor": 209.99,
+				"descricao": "FRISO LATERAL",
+				"valor-parcela": null
+			}
+		],
+		"parcelas": null
+	},
+	"saida": {
+		"data-base": null,
+		"data-pagamento-parcelas": null,
+		"codigo-retorno": "1",
+		"tipo": null,
+		"plano": {
+			"descricao": "SEMEST 122 1.",
+			"periodicidade": "SEMESTRAL",
+			"codigo-modalidade": "cdc",
+			"codigo-plano": "3355",
+			"codigo-base-plano": "3221",
+			"ano-modelo-inicio": 2019,
+			"ano-modelo-final": 2021,
+			"data-inicial-vigencia": "2020-12-15 00:00:00.000",
+			"uso-plano": {
+				"uso-plano": [
+					"T"
+				],
+				"codigo-marca": [
+					"033",
+					"002",
+					"013",
+					"057",
+					"014",
+					"015",
+					"016",
+					"017",
+					"009",
+					"083",
+					"010",
+					"021"
+				]
+			},
+			"parcela-minima-entrada": 0.0,
+			"parcela-maxima-entrada": 100.0,
+			"parcela-minima-balao": 0,
+			"parcela-maxima-balao": 0,
+			"quantidade-minima-carencia": 10,
+			"quantidade-maxima-carencia": 200,
+			"tipo-plano": "CDC-TCM",
+			"plano-subsidiado": false,
+			"tipo-subsidio": "",
+			"primeiro-vencimento-fixo": false,
+			"indicador-faixa-ano": "AI_AF_OU_0KM",
+			"prazo-validade": 0,
+			"id-modalidade": "08",
+			"isenta-iof": "N",
+			"periodicidade-numero": 6,
+			"permite-balao": true
+		},
+		"cesta-servicos": {
+			"codigo": 32,
+			"descricao": "Cesta 10 - Pessoa Fisica",
+			"valor": 1100.0,
+			"cesta-isenta": false,
+			"cesta-travada-vendedor": true,
+			"cesta-default": true
+		},
+		"uf-emplacamento": {
+			"uf": "SP",
+			"descricao": "Todas",
+			"valor": 156.92,
+			"codigo-registro": "500",
+			"data-inicio": "2020-01-01 00:00:00.000"
+		},
+		"simulacao": null,
+		"parametros-seguro-prestamista": {
+			"spf-removido": true,
+			"svp-removido": true,
+			"spf-disponivel": true,
+			"svp-disponivel": false,
+			"svp-se-spf-removido": false,
+			"spf-valor-comprometido": 0,
+			"svp-valor-comprometido": 0,
+			"valor-original-total-financiado": null,
+			"seguro-prestamista-escolhido": null
+		}
+	},
+	"tipo-simulacao": "SIMPLIFICADA-DESEJADA"
+}

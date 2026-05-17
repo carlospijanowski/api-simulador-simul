@@ -1,0 +1,79 @@
+[ {
+  "parcelas" : 12,
+  "valor-parcela" : 5535.59,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 1735.20,
+  "valor-cet-anual" : 27.77,
+  "valor-taxa-mes" : 1.51,
+  "valor-taxa-anual" : 19.67,
+  "valor-total-financiado" : 77063.22,
+  "valor-seguro-auto-parcela" : 0.00,
+  "valor-seguro-prestamista-parcela" : 0.00,
+  "tipo-seguro-prestamista" : "NENHUM",
+  "valor-seguro-prestamista" : 0.00,
+  "svp-limite-extrapolado" : true,
+  "spf-limite-extrapolado" : true,
+  "itens-financiaveis" : [ {
+    "codigo" : 1,
+    "valor" : 1000.00,
+    "descricao" : "blindagem",
+    "valor-parcela" : 93.54
+  }, {
+    "codigo" : 2,
+    "valor" : 3000.00,
+    "descricao" : "acessorios",
+    "valor-parcela" : 280.61
+  } ]
+}, {
+  "parcelas" : 24,
+  "valor-parcela" : 3088.40,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 2119.39,
+  "valor-cet-anual" : 22.13,
+  "valor-taxa-mes" : 1.35,
+  "valor-taxa-anual" : 17.46,
+  "valor-total-financiado" : 77447.41,
+  "valor-seguro-auto-parcela" : 0.00,
+  "valor-seguro-prestamista-parcela" : 0.00,
+  "tipo-seguro-prestamista" : "NENHUM",
+  "valor-seguro-prestamista" : 0.00,
+  "svp-limite-extrapolado" : true,
+  "spf-limite-extrapolado" : true,
+  "itens-financiaveis" : [ {
+    "codigo" : 1,
+    "valor" : 1000.00,
+    "descricao" : "blindagem",
+    "valor-parcela" : 50.36
+  }, {
+    "codigo" : 2,
+    "valor" : 3000.00,
+    "descricao" : "acessorios",
+    "valor-parcela" : 151.09
+  } ]
+}, {
+  "parcelas" : 36,
+  "valor-parcela" : 2278.69,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 2247.53,
+  "valor-cet-anual" : 20.28,
+  "valor-taxa-mes" : 1.31,
+  "valor-taxa-anual" : 16.92,
+  "valor-total-financiado" : 77575.55,
+  "valor-seguro-auto-parcela" : 0.00,
+  "valor-seguro-prestamista-parcela" : 0.00,
+  "tipo-seguro-prestamista" : "NENHUM",
+  "valor-seguro-prestamista" : 0.00,
+  "svp-limite-extrapolado" : true,
+  "spf-limite-extrapolado" : true,
+  "itens-financiaveis" : [ {
+    "codigo" : 1,
+    "valor" : 1000.00,
+    "descricao" : "blindagem",
+    "valor-parcela" : 36.04
+  }, {
+    "codigo" : 2,
+    "valor" : 3000.00,
+    "descricao" : "acessorios",
+    "valor-parcela" : 108.11
+  } ]
+} ]

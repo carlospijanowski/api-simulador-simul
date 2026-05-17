@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false">
+	<include
+		resource="org/springframework/boot/logging/logback/defaults.xml" />
+	<include
+		resource="org/springframework/boot/logging/logback/console-appender.xml" />
+
+	<appender name="CONSOLE_APPENDER"
+		class="ch.qos.logback.core.ConsoleAppender">
+		<encoder class="net.logstash.logback.encoder.LogstashEncoder">
+			<timestampPattern>yyyy-MM-dd HH:mm:ss.SSS</timestampPattern>
+			<fieldNames>
+				<timestamp>timestamp</timestamp>
+				<version>[ignore]</version>
+				<levelValue>[ignore]</levelValue>
+			</fieldNames>
+		</encoder>
+	</appender>
+
+	<root level="INFO">
+		<appender-ref ref="CONSOLE_APPENDER" />
+	</root>
+
+</configuration>

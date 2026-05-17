@@ -1,0 +1,58 @@
+[ {
+  "subsidio" : {
+    "valor-loja" : 7049.40,
+    "valor-montadora" : 0.00
+  },
+  "parcelas" : 12,
+  "valor-parcela" : 4591.42,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 1769.04,
+  "valor-cet-anual" : 6.60,
+  "valor-taxa-mes" : 0.00,
+  "valor-taxa-anual" : 0.00,
+  "valor-total-financiado" : 75097.06,
+  "valor-seguro-auto-parcela" : 170.04,
+  "valor-seguro-prestamista-parcela" : 0.00,
+  "tipo-seguro-prestamista" : "NENHUM",
+  "valor-seguro-prestamista" : 0.00,
+  "valor-subsidio-usado" : 7049.40,
+  "taxa-subsidio-usada" : 0.00
+}, {
+  "subsidio" : {
+    "valor-loja" : 10000.00,
+    "valor-montadora" : 0.00
+  },
+  "parcelas" : 24,
+  "valor-parcela" : 2440.64,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 2136.20,
+  "valor-cet-anual" : 7.12,
+  "valor-taxa-mes" : 0.26,
+  "valor-taxa-anual" : 3.21,
+  "valor-total-financiado" : 75464.22,
+  "valor-seguro-auto-parcela" : 88.45,
+  "valor-seguro-prestamista-parcela" : 0.00,
+  "tipo-seguro-prestamista" : "NENHUM",
+  "valor-seguro-prestamista" : 0.00,
+  "valor-subsidio-usado" : 10000.00,
+  "taxa-subsidio-usada" : 0.26
+}, {
+  "subsidio" : {
+    "valor-loja" : 10000.00,
+    "valor-montadora" : 0.00
+  },
+  "parcelas" : 36,
+  "valor-parcela" : 1815.73,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 2243.47,
+  "valor-cet-anual" : 9.70,
+  "valor-taxa-mes" : 0.55,
+  "valor-taxa-anual" : 6.80,
+  "valor-total-financiado" : 75571.49,
+  "valor-seguro-auto-parcela" : 63.20,
+  "valor-seguro-prestamista-parcela" : 0.00,
+  "tipo-seguro-prestamista" : "NENHUM",
+  "valor-seguro-prestamista" : 0.00,
+  "valor-subsidio-usado" : 10000.00,
+  "taxa-subsidio-usada" : 0.55
+} ]

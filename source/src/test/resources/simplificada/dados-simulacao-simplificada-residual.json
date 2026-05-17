@@ -1,0 +1,107 @@
+{
+	"codigo-simulacao": null,
+	"data-criacao": "2021-03-02 10:33:56.661",
+	"origem-solicitacao": null,
+	"session-id": null,
+	"entrada": {
+		"cliente-prospect": null,
+		"dealer": {
+			"cnpj-origem-negocio": "76280625439185",
+			"codigo-loja": "1234"
+		},
+		"veiculo-interesse": {
+			"ano-fabricacao": "2020",
+			"ano-modelo": "2020",
+			"codigo-fipe": "002154-7",
+			"marca-id": "002",
+			"marca-descricao": "TOYOTA",
+			"modelo-id": "002154",
+			"modelo-descricao": "ETIOS X 1.3 FLEX 16V 5P AUT.",
+			"codigo-molicar": "002154-7",
+			"valor-bem": 55000
+		},
+		"detalhe-simulacao": {
+			"modalidade-id": "CICLO-TOYOTA",
+			"situacao-veiculo": "0km",
+			"taxa-subsidio": null,
+			"tipo-pessoa": "PESSOA-FISICA",
+			"uf-emplacamento": "SP",
+			"valor-entrada": 30000,
+			"valor-parcela-desejada": null,
+			"valor-parcela-residual": 15000,
+			"valor-subsidio": null,
+			"seguro-auto": 0,
+			"codigo-retorno": "1"
+		},
+		"itens-financiaveis": null,
+		"parcelas": [
+			12
+		]
+	},
+	"saida": {
+		"codigo-retorno": "1",
+		"tipo": null,
+		"plano": {
+			"descricao": "CICLO 122.2",
+			"periodicidade": "MENSAL",
+			"codigo-modalidade": "ciclo-toyota",
+			"codigo-plano": "3335",
+			"codigo-base-plano": "3224",
+			"ano-modelo-inicio": 2019,
+			"ano-modelo-final": 2022,
+			"data-inicial-vigencia": "2020-10-16 00:00:00.000",
+			"uso-plano": {
+				"uso-plano": [
+					"T"
+				],
+				"codigo-marca": [
+					"002"
+				]
+			},
+			"parcela-minima-entrada": 20.0,
+			"parcela-maxima-entrada": 99.999999,
+			"parcela-minima-balao": 20,
+			"parcela-maxima-balao": 50,
+			"quantidade-minima-carencia": 10,
+			"quantidade-maxima-carencia": 180,
+			"tipo-plano": "CDC-TCM",
+			"plano-subsidiado": false,
+			"tipo-subsidio": "",
+			"primeiro-vencimento-fixo": false,
+			"indicador-faixa-ano": "AI_AF_E_0KM",
+			"prazo-validade": 10,
+			"id-modalidade": "12",
+			"isenta-iof": "N",
+			"periodicidade-numero": 1,
+			"permite-balao": true
+		},
+		"cesta-servicos": {
+			"codigo": 32,
+			"descricao": "Cesta 10 - Pessoa Fisica",
+			"valor": 1100.0,
+			"cesta-isenta": false,
+			"cesta-travada-vendedor": true,
+			"cesta-default": true
+		},
+		"uf-emplacamento": {
+			"uf": "SP",
+			"descricao": "Todas",
+			"valor": 156.92,
+			"codigo-registro": "500",
+			"data-inicio": "2020-01-01 00:00:00.000"
+		},
+		"simulacao": null,
+		"parametros-seguro-prestamista": {
+			"spf-removido": true,
+			"svp-removido": true,
+			"spf-disponivel": true,
+			"svp-disponivel": false,
+			"svp-se-spf-removido": false,
+			"spf-valor-comprometido": 0,
+			"svp-valor-comprometido": 0,
+			"valor-original-total-financiado": null,
+			"seguro-prestamista-escolhido": null
+		}
+	},
+	"tipo-simulacao": "SIMPLIFICADA-RESIDUAL"
+}

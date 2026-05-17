@@ -1,0 +1,43 @@
+{
+	"periodicidade": 1,
+	"parcelas": [
+		12
+	],
+	"origemNegocio": null,
+	"cpfProponente": null,
+	"modalidade": "CICLO-TOYOTA",
+	"valor-parcela-desejada": null,
+	"carencia-do-plano": {
+		"minimo": 10,
+		"maximo": 180
+	},
+	"valor-uf-emplacamento": 156.92,
+	"vencimento-30-dias": null,
+	"valor-bem": 55000,
+	"valor-entrada": 30000,
+	"valor-cesta-servicos": 550.0,
+	"valor-taxa-cadastro": 550.0,
+	"retorno": "1",
+	"plano-id": 3335,
+	"tipo-pessoa": "pessoa-fisica",
+	"isenta-iof": "N",
+	"vencimento-n-dias": true,
+	"taxa-subsidio": null,
+	"parametros-seguro-prestamista": {
+		"spf-removido": true,
+		"svp-removido": true,
+		"spf-disponivel": true,
+		"svp-disponivel": false,
+		"svp-se-spf-removido": false,
+		"spf-valor-comprometido": 0,
+		"svp-valor-comprometido": 0,
+		"valor-original-total-financiado": null,
+		"seguro-prestamista-escolhido": null
+	},
+	"itens-financiaveis": null,
+	"seguro-auto": 0,
+	"taxa-mes": null,
+	"valor-parcela-residual": 15000,
+	"valor-subsidio": null,
+	"parcelas-intermediarias": null
+}

@@ -1,0 +1,43 @@
+[ {
+  "parcelas" : 12,
+  "valor-parcela" : 5241.51,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 1673.09,
+  "valor-cet-anual" : 27.90,
+  "valor-taxa-mes" : 1.51,
+  "valor-taxa-anual" : 19.67,
+  "valor-total-financiado" : 73857.05,
+  "valor-seguro-auto-parcela" : 0.00,
+  "valor-seguro-prestamista-parcela" : 80.06,
+  "tipo-seguro-prestamista" : "SVP",
+  "valor-seguro-prestamista" : 855.94,
+  "svp-limite-extrapolado" : false
+}, {
+  "parcelas" : 24,
+  "valor-parcela" : 2930.05,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 2035.80,
+  "valor-cet-anual" : 22.19,
+  "valor-taxa-mes" : 1.35,
+  "valor-taxa-anual" : 17.46,
+  "valor-total-financiado" : 74219.76,
+  "valor-seguro-auto-parcela" : 0.00,
+  "valor-seguro-prestamista-parcela" : 43.11,
+  "tipo-seguro-prestamista" : "SVP",
+  "valor-seguro-prestamista" : 855.94,
+  "svp-limite-extrapolado" : false
+}, {
+  "parcelas" : 36,
+  "valor-parcela" : 2165.39,
+  "valor-parcela-residual" : 20000.00,
+  "valor-iof" : 2156.74,
+  "valor-cet-anual" : 20.31,
+  "valor-taxa-mes" : 1.31,
+  "valor-taxa-anual" : 16.92,
+  "valor-total-financiado" : 74340.69,
+  "valor-seguro-auto-parcela" : 0.00,
+  "valor-seguro-prestamista-parcela" : 30.84,
+  "tipo-seguro-prestamista" : "SVP",
+  "valor-seguro-prestamista" : 855.94,
+  "svp-limite-extrapolado" : false
+} ]

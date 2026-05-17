@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "baseline": 1,
+  "versao": 1,
+  "descricao": "TAXAS 123",
+  "status-versionamento": "A",
+  "data-inicial-vigencia": "2023-01-11",
+  "data-final-vigencia": "2099-01-11",
+  "prazo-validade": 5,
+  "taxas-detalhe": [
+    {
+      "percentual-minimo-entrada": 0,
+      "percentual-maximo-entrada": 99,
+      "percentual-minimo-balao": 0,
+      "percentual-maximo-balao": 99,
+      "prazo-minimo": 12,
+      "prazo-maximo": 60,
+      "taxa-mes": 1.95
+    }
+  ]
+}

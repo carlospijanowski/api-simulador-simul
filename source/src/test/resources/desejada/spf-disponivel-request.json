@@ -1,0 +1,26 @@
+{
+  "parametros-seguro-prestamista": {
+    "spf-removido": false,
+    "svp-removido": false,
+    "spf-disponivel": true,
+    "svp-disponivel": false,
+    "svp-se-spf-removido": true,
+    "spf-valor-comprometido": 0,
+    "svp-valor-comprometido": 0
+  },
+  "tipo-pessoa": "pessoa-fisica",
+  "valor-uf-emplacamento": 278.02,
+  "valor-taxa-cadastro": 550,
+  "valor-cesta-servicos": 500,
+  "retorno": "1",
+  "data-primeiro-vencimento": "20190216",
+  "plano-id": "2709",
+  "carencia-do-plano": {
+    "minimo": 10,
+    "maximo": 180
+  },
+  "valor-bem": 100000,
+  "valor-entrada": 30000,
+  "itens-financiaveis": [],
+  "valor-parcela-desejada": 2400
+}

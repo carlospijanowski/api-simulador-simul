@@ -1,0 +1,29 @@
+{
+  "parametros-seguro-prestamista": {
+    "spf-removido": false,
+    "svp-removido": false,
+    "spf-disponivel": true,
+    "svp-disponivel": true,
+    "svp-se-spf-removido": true,
+    "spf-valor-comprometido": 449000,
+    "svp-valor-comprometido": 989000
+  },
+  "tipo-pessoa": "pessoa-fisica",
+  "valor-uf-emplacamento": 278.02,
+  "valor-taxa-cadastro": 550,
+  "valor-cesta-servicos": 500,
+  "retorno": "1",
+  "data-primeiro-vencimento": "20190216",
+  "plano-id": "2709",
+  "carencia-do-plano": {
+    "minimo": 10,
+    "maximo": 180
+  },
+  "valor-bem": 100000,
+  "valor-entrada": 30000,
+  "valor-parcela-residual": 20000,
+  "itens-financiaveis": [
+    { "codigo":1,"descricao":"blindagem", "valor":1000.00 },
+    { "codigo":2,"descricao":"acessorios", "valor":3000.00 }
+  ]
+}

@@ -1,0 +1,1574 @@
+{
+  "list": [
+    {
+      "prazo": 48,
+      "valorParcela": 7981.85761,
+      "valorIOF": 9698.19,
+      "valorCetAnual": 27.59,
+      "valorTotalFinanciado": 324964.44,
+      "valorTaxaMes": 0.01921826,
+      "valorTaxaAnual": 25.66268900,
+      "valorSubsidio": 0,
+      "dadosSeguroPrestamista": {
+        "fator": 0,
+        "tipo": "NENHUM",
+        "limiteDeSVPExtrapolado": true
+      },
+      "valorDoSeguroPrestamista": 0.00,
+      "valorDoSeguroPrestamistaNaParcela": 0E-10,
+      "valorParcelaResidual": 190000.000,
+      "valorSeguroAutoNaParcela": 0E-8,
+      "itensFinanciaveisNaParcela": [
+        {
+          "codigo": 3,
+          "valor": 10215.0,
+          "valor-parcela": 337.43
+        }
+      ],
+      "valorTotalPrazo": 649529.17,
+      "percentualParcelaResidual": 50.00,
+      "resultadoCalculado": {
+        "idCall": "1",
+        "dadosSimulacao": {
+          "idSimulacao": "RESIDUAL",
+          "numeroProposta": "1",
+          "taxaIOFAA": "0.030000",
+          "taxaIOFAD": "0.003800",
+          "taxaBanco": "0.015400",
+          "periodicidade": "1",
+          "produto": "OV",
+          "taxaOperacao": "",
+          "valorSubsidio": "0",
+          "prazo": "48",
+          "retorno": "5",
+          "tarifaCesta": "550.00",
+          "tarifaTC": "550.00",
+          "registroContrato": "351.25",
+          "dataSimulacaoYYYYMMDD": "20220817",
+          "data1VencimentoYYYYMMDD": "20220917",
+          "valorBem": "380000.0",
+          "valorSeguro": "0.00",
+          "valorEntrada": "76400.0",
+          "temIsencaoIOF": "N",
+          "valorVrgFinal": "0",
+          "baseCalculoIof": "365",
+          "parcelasBalao": [
+            {
+              "valorParcela": "190000.000",
+              "dataParcelaYYYYMMDD": "20260817"
+            }
+          ],
+          "acessorio": "10215.0",
+          "tipoCalculo": "TAXA",
+          "informouDataPrimeiroVencimento": false
+        },
+        "listaFluxoFinanceiroComIOF": [
+          {
+            "idParcela": "1",
+            "dataVencimento": "17/09/2022",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "8,135.26",
+            "saldoDevedor": "331,209.69",
+            "juros": "6,245.25",
+            "amortizacao": "1,736.61",
+            "principal": "323,227.83"
+          },
+          {
+            "idParcela": "2",
+            "dataVencimento": "17/10/2022",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "8,291.60",
+            "saldoDevedor": "329,439.71",
+            "juros": "6,211.88",
+            "amortizacao": "1,769.98",
+            "principal": "321,457.85"
+          },
+          {
+            "idParcela": "3",
+            "dataVencimento": "17/11/2022",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "8,450.95",
+            "saldoDevedor": "327,635.71",
+            "juros": "6,177.86",
+            "amortizacao": "1,804.00",
+            "principal": "319,653.85"
+          },
+          {
+            "idParcela": "4",
+            "dataVencimento": "17/12/2022",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "8,613.36",
+            "saldoDevedor": "325,797.04",
+            "juros": "6,143.19",
+            "amortizacao": "1,838.67",
+            "principal": "317,815.19"
+          },
+          {
+            "idParcela": "5",
+            "dataVencimento": "17/01/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "8,778.90",
+            "saldoDevedor": "323,923.04",
+            "juros": "6,107.85",
+            "amortizacao": "1,874.00",
+            "principal": "315,941.18"
+          },
+          {
+            "idParcela": "6",
+            "dataVencimento": "17/02/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "8,947.61",
+            "saldoDevedor": "322,013.02",
+            "juros": "6,071.84",
+            "amortizacao": "1,910.02",
+            "principal": "314,031.17"
+          },
+          {
+            "idParcela": "7",
+            "dataVencimento": "17/03/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "9,119.57",
+            "saldoDevedor": "320,066.30",
+            "juros": "6,035.13",
+            "amortizacao": "1,946.73",
+            "principal": "312,084.44"
+          },
+          {
+            "idParcela": "8",
+            "dataVencimento": "17/04/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "9,294.83",
+            "saldoDevedor": "318,082.16",
+            "juros": "5,997.72",
+            "amortizacao": "1,984.14",
+            "principal": "310,100.30"
+          },
+          {
+            "idParcela": "9",
+            "dataVencimento": "17/05/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "9,473.46",
+            "saldoDevedor": "316,059.89",
+            "juros": "5,959.59",
+            "amortizacao": "2,022.27",
+            "principal": "308,078.03"
+          },
+          {
+            "idParcela": "10",
+            "dataVencimento": "17/06/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "9,655.53",
+            "saldoDevedor": "313,998.76",
+            "juros": "5,920.72",
+            "amortizacao": "2,061.13",
+            "principal": "306,016.90"
+          },
+          {
+            "idParcela": "11",
+            "dataVencimento": "17/07/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "9,841.09",
+            "saldoDevedor": "311,898.01",
+            "juros": "5,881.11",
+            "amortizacao": "2,100.75",
+            "principal": "303,916.15"
+          },
+          {
+            "idParcela": "12",
+            "dataVencimento": "17/08/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "10,030.22",
+            "saldoDevedor": "309,756.89",
+            "juros": "5,840.74",
+            "amortizacao": "2,141.12",
+            "principal": "301,775.04"
+          },
+          {
+            "idParcela": "13",
+            "dataVencimento": "17/09/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "10,222.98",
+            "saldoDevedor": "307,574.63",
+            "juros": "5,799.59",
+            "amortizacao": "2,182.27",
+            "principal": "299,592.77"
+          },
+          {
+            "idParcela": "14",
+            "dataVencimento": "17/10/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "10,419.45",
+            "saldoDevedor": "305,350.42",
+            "juros": "5,757.65",
+            "amortizacao": "2,224.21",
+            "principal": "297,368.56"
+          },
+          {
+            "idParcela": "15",
+            "dataVencimento": "17/11/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "10,619.69",
+            "saldoDevedor": "303,083.47",
+            "juros": "5,714.91",
+            "amortizacao": "2,266.95",
+            "principal": "295,101.61"
+          },
+          {
+            "idParcela": "16",
+            "dataVencimento": "17/12/2023",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "10,823.78",
+            "saldoDevedor": "300,772.95",
+            "juros": "5,671.34",
+            "amortizacao": "2,310.52",
+            "principal": "292,791.10"
+          },
+          {
+            "idParcela": "17",
+            "dataVencimento": "17/01/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "11,031.80",
+            "saldoDevedor": "298,418.03",
+            "juros": "5,626.94",
+            "amortizacao": "2,354.92",
+            "principal": "290,436.17"
+          },
+          {
+            "idParcela": "18",
+            "dataVencimento": "17/02/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "11,243.81",
+            "saldoDevedor": "296,017.85",
+            "juros": "5,581.68",
+            "amortizacao": "2,400.18",
+            "principal": "288,035.99"
+          },
+          {
+            "idParcela": "19",
+            "dataVencimento": "17/03/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "11,459.90",
+            "saldoDevedor": "293,571.54",
+            "juros": "5,535.55",
+            "amortizacao": "2,446.31",
+            "principal": "285,589.69"
+          },
+          {
+            "idParcela": "20",
+            "dataVencimento": "17/04/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "11,680.14",
+            "saldoDevedor": "291,078.22",
+            "juros": "5,488.54",
+            "amortizacao": "2,493.32",
+            "principal": "283,096.37"
+          },
+          {
+            "idParcela": "21",
+            "dataVencimento": "17/05/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "11,904.61",
+            "saldoDevedor": "288,536.99",
+            "juros": "5,440.62",
+            "amortizacao": "2,541.24",
+            "principal": "280,555.13"
+          },
+          {
+            "idParcela": "22",
+            "dataVencimento": "17/06/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "12,133.39",
+            "saldoDevedor": "285,946.91",
+            "juros": "5,391.78",
+            "amortizacao": "2,590.08",
+            "principal": "277,965.05"
+          },
+          {
+            "idParcela": "23",
+            "dataVencimento": "17/07/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "12,366.58",
+            "saldoDevedor": "283,307.06",
+            "juros": "5,342.00",
+            "amortizacao": "2,639.85",
+            "principal": "275,325.20"
+          },
+          {
+            "idParcela": "24",
+            "dataVencimento": "17/08/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "12,604.24",
+            "saldoDevedor": "280,616.47",
+            "juros": "5,291.27",
+            "amortizacao": "2,690.59",
+            "principal": "272,634.61"
+          },
+          {
+            "idParcela": "25",
+            "dataVencimento": "17/09/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "12,846.47",
+            "saldoDevedor": "277,874.17",
+            "juros": "5,239.56",
+            "amortizacao": "2,742.29",
+            "principal": "269,892.32"
+          },
+          {
+            "idParcela": "26",
+            "dataVencimento": "17/10/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "13,093.36",
+            "saldoDevedor": "275,079.18",
+            "juros": "5,186.86",
+            "amortizacao": "2,795.00",
+            "principal": "267,097.32"
+          },
+          {
+            "idParcela": "27",
+            "dataVencimento": "17/11/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "13,344.99",
+            "saldoDevedor": "272,230.47",
+            "juros": "5,133.15",
+            "amortizacao": "2,848.71",
+            "principal": "264,248.61"
+          },
+          {
+            "idParcela": "28",
+            "dataVencimento": "17/12/2024",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "13,601.46",
+            "saldoDevedor": "269,327.01",
+            "juros": "5,078.40",
+            "amortizacao": "2,903.46",
+            "principal": "261,345.15"
+          },
+          {
+            "idParcela": "29",
+            "dataVencimento": "17/01/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "13,862.85",
+            "saldoDevedor": "266,367.75",
+            "juros": "5,022.60",
+            "amortizacao": "2,959.26",
+            "principal": "258,385.89"
+          },
+          {
+            "idParcela": "30",
+            "dataVencimento": "17/02/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "14,129.27",
+            "saldoDevedor": "263,351.62",
+            "juros": "4,965.73",
+            "amortizacao": "3,016.13",
+            "principal": "255,369.76"
+          },
+          {
+            "idParcela": "31",
+            "dataVencimento": "17/03/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "14,400.81",
+            "saldoDevedor": "260,277.52",
+            "juros": "4,907.76",
+            "amortizacao": "3,074.10",
+            "principal": "252,295.66"
+          },
+          {
+            "idParcela": "32",
+            "dataVencimento": "17/04/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "14,677.57",
+            "saldoDevedor": "257,144.35",
+            "juros": "4,848.68",
+            "amortizacao": "3,133.17",
+            "principal": "249,162.49"
+          },
+          {
+            "idParcela": "33",
+            "dataVencimento": "17/05/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "14,959.65",
+            "saldoDevedor": "253,950.96",
+            "juros": "4,788.47",
+            "amortizacao": "3,193.39",
+            "principal": "245,969.10"
+          },
+          {
+            "idParcela": "34",
+            "dataVencimento": "17/06/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "15,247.15",
+            "saldoDevedor": "250,696.20",
+            "juros": "4,727.10",
+            "amortizacao": "3,254.76",
+            "principal": "242,714.34"
+          },
+          {
+            "idParcela": "35",
+            "dataVencimento": "17/07/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "15,540.17",
+            "saldoDevedor": "247,378.89",
+            "juros": "4,664.55",
+            "amortizacao": "3,317.31",
+            "principal": "239,397.03"
+          },
+          {
+            "idParcela": "36",
+            "dataVencimento": "17/08/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "15,838.83",
+            "saldoDevedor": "243,997.83",
+            "juros": "4,600.79",
+            "amortizacao": "3,381.06",
+            "principal": "236,015.97"
+          },
+          {
+            "idParcela": "37",
+            "dataVencimento": "17/09/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "16,143.22",
+            "saldoDevedor": "240,551.79",
+            "juros": "4,535.82",
+            "amortizacao": "3,446.04",
+            "principal": "232,569.93"
+          },
+          {
+            "idParcela": "38",
+            "dataVencimento": "17/10/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "16,453.47",
+            "saldoDevedor": "237,039.52",
+            "juros": "4,469.59",
+            "amortizacao": "3,512.27",
+            "principal": "229,057.66"
+          },
+          {
+            "idParcela": "39",
+            "dataVencimento": "17/11/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "16,769.67",
+            "saldoDevedor": "233,459.75",
+            "juros": "4,402.09",
+            "amortizacao": "3,579.77",
+            "principal": "225,477.89"
+          },
+          {
+            "idParcela": "40",
+            "dataVencimento": "17/12/2025",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "17,091.96",
+            "saldoDevedor": "229,811.19",
+            "juros": "4,333.29",
+            "amortizacao": "3,648.56",
+            "principal": "221,829.33"
+          },
+          {
+            "idParcela": "41",
+            "dataVencimento": "17/01/2026",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "17,420.44",
+            "saldoDevedor": "226,092.50",
+            "juros": "4,263.17",
+            "amortizacao": "3,718.68",
+            "principal": "218,110.64"
+          },
+          {
+            "idParcela": "42",
+            "dataVencimento": "17/02/2026",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "17,755.23",
+            "saldoDevedor": "222,302.35",
+            "juros": "4,191.71",
+            "amortizacao": "3,790.15",
+            "principal": "214,320.49"
+          },
+          {
+            "idParcela": "43",
+            "dataVencimento": "17/03/2026",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "18,096.45",
+            "saldoDevedor": "218,439.36",
+            "juros": "4,118.87",
+            "amortizacao": "3,862.99",
+            "principal": "210,457.50"
+          },
+          {
+            "idParcela": "44",
+            "dataVencimento": "17/04/2026",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "18,444.23",
+            "saldoDevedor": "214,502.13",
+            "juros": "4,044.63",
+            "amortizacao": "3,937.23",
+            "principal": "206,520.27"
+          },
+          {
+            "idParcela": "45",
+            "dataVencimento": "17/05/2026",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "18,798.70",
+            "saldoDevedor": "210,489.23",
+            "juros": "3,968.96",
+            "amortizacao": "4,012.90",
+            "principal": "202,507.37"
+          },
+          {
+            "idParcela": "46",
+            "dataVencimento": "17/06/2026",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "19,159.98",
+            "saldoDevedor": "206,399.21",
+            "juros": "3,891.84",
+            "amortizacao": "4,090.02",
+            "principal": "198,417.36"
+          },
+          {
+            "idParcela": "47",
+            "dataVencimento": "17/07/2026",
+            "pmtTotal": "7,981.86",
+            "valorPresente": "19,528.20",
+            "saldoDevedor": "202,230.59",
+            "juros": "3,813.24",
+            "amortizacao": "4,168.62",
+            "principal": "194,248.73"
+          },
+          {
+            "idParcela": "48",
+            "dataVencimento": "17/08/2026",
+            "pmtTotal": "197,981.86",
+            "valorPresente": "493,685.98",
+            "saldoDevedor": "197,981.86",
+            "juros": "3,733.12",
+            "amortizacao": "194,248.73",
+            "principal": "-0.00"
+          }
+        ],
+        "listaFluxoFinanceiroSemIOF": [
+          {
+            "idParcela": "1",
+            "dataVencimento": "17/09/2022",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "7,818.10",
+            "saldoDevedor": "321,325.12",
+            "juros": "6,058.87",
+            "amortizacao": "7,526.05",
+            "principal": "313,654.43"
+          },
+          {
+            "idParcela": "2",
+            "dataVencimento": "17/10/2022",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "7,968.35",
+            "saldoDevedor": "319,682.32",
+            "juros": "6,027.89",
+            "amortizacao": "7,384.14",
+            "principal": "312,011.64"
+          },
+          {
+            "idParcela": "3",
+            "dataVencimento": "17/11/2022",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "8,121.49",
+            "saldoDevedor": "318,007.96",
+            "juros": "5,996.32",
+            "amortizacao": "7,244.90",
+            "principal": "310,337.27"
+          },
+          {
+            "idParcela": "4",
+            "dataVencimento": "17/12/2022",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "8,277.57",
+            "saldoDevedor": "316,301.41",
+            "juros": "5,964.14",
+            "amortizacao": "7,108.30",
+            "principal": "308,630.72"
+          },
+          {
+            "idParcela": "5",
+            "dataVencimento": "17/01/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "8,436.65",
+            "saldoDevedor": "314,562.07",
+            "juros": "5,931.35",
+            "amortizacao": "6,974.26",
+            "principal": "306,891.38"
+          },
+          {
+            "idParcela": "6",
+            "dataVencimento": "17/02/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "8,598.79",
+            "saldoDevedor": "312,789.30",
+            "juros": "5,897.92",
+            "amortizacao": "6,842.76",
+            "principal": "305,118.61"
+          },
+          {
+            "idParcela": "7",
+            "dataVencimento": "17/03/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "8,764.05",
+            "saldoDevedor": "310,982.46",
+            "juros": "5,863.85",
+            "amortizacao": "6,713.73",
+            "principal": "303,311.78"
+          },
+          {
+            "idParcela": "8",
+            "dataVencimento": "17/04/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "8,932.48",
+            "saldoDevedor": "309,140.90",
+            "juros": "5,829.12",
+            "amortizacao": "6,587.14",
+            "principal": "301,470.21"
+          },
+          {
+            "idParcela": "9",
+            "dataVencimento": "17/05/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "9,104.14",
+            "saldoDevedor": "307,263.95",
+            "juros": "5,793.73",
+            "amortizacao": "6,462.93",
+            "principal": "299,593.26"
+          },
+          {
+            "idParcela": "10",
+            "dataVencimento": "17/06/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "9,279.11",
+            "saldoDevedor": "305,350.92",
+            "juros": "5,757.66",
+            "amortizacao": "6,341.07",
+            "principal": "297,680.23"
+          },
+          {
+            "idParcela": "11",
+            "dataVencimento": "17/07/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "9,457.44",
+            "saldoDevedor": "303,401.13",
+            "juros": "5,720.90",
+            "amortizacao": "6,221.50",
+            "principal": "295,730.44"
+          },
+          {
+            "idParcela": "12",
+            "dataVencimento": "17/08/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "9,639.19",
+            "saldoDevedor": "301,413.87",
+            "juros": "5,683.42",
+            "amortizacao": "6,104.19",
+            "principal": "293,743.18"
+          },
+          {
+            "idParcela": "13",
+            "dataVencimento": "17/09/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "9,824.44",
+            "saldoDevedor": "299,388.41",
+            "juros": "5,645.23",
+            "amortizacao": "5,989.09",
+            "principal": "291,717.72"
+          },
+          {
+            "idParcela": "14",
+            "dataVencimento": "17/10/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "10,013.25",
+            "saldoDevedor": "297,324.03",
+            "juros": "5,606.31",
+            "amortizacao": "5,876.16",
+            "principal": "289,653.34"
+          },
+          {
+            "idParcela": "15",
+            "dataVencimento": "17/11/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "10,205.69",
+            "saldoDevedor": "295,219.98",
+            "juros": "5,566.63",
+            "amortizacao": "5,765.36",
+            "principal": "287,549.29"
+          },
+          {
+            "idParcela": "16",
+            "dataVencimento": "17/12/2023",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "10,401.82",
+            "saldoDevedor": "293,075.49",
+            "juros": "5,526.20",
+            "amortizacao": "5,656.65",
+            "principal": "285,404.80"
+          },
+          {
+            "idParcela": "17",
+            "dataVencimento": "17/01/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "10,601.73",
+            "saldoDevedor": "290,889.78",
+            "juros": "5,484.98",
+            "amortizacao": "5,549.99",
+            "principal": "283,219.09"
+          },
+          {
+            "idParcela": "18",
+            "dataVencimento": "17/02/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "10,805.47",
+            "saldoDevedor": "288,662.07",
+            "juros": "5,442.98",
+            "amortizacao": "5,445.34",
+            "principal": "280,991.39"
+          },
+          {
+            "idParcela": "19",
+            "dataVencimento": "17/03/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "11,013.14",
+            "saldoDevedor": "286,391.55",
+            "juros": "5,400.17",
+            "amortizacao": "5,342.66",
+            "principal": "278,720.86"
+          },
+          {
+            "idParcela": "20",
+            "dataVencimento": "17/04/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "11,224.79",
+            "saldoDevedor": "284,077.39",
+            "juros": "5,356.53",
+            "amortizacao": "5,241.92",
+            "principal": "276,406.71"
+          },
+          {
+            "idParcela": "21",
+            "dataVencimento": "17/05/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "11,440.51",
+            "saldoDevedor": "281,718.76",
+            "juros": "5,312.06",
+            "amortizacao": "5,143.08",
+            "principal": "274,048.08"
+          },
+          {
+            "idParcela": "22",
+            "dataVencimento": "17/06/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "11,660.38",
+            "saldoDevedor": "279,314.80",
+            "juros": "5,266.73",
+            "amortizacao": "5,046.10",
+            "principal": "271,644.11"
+          },
+          {
+            "idParcela": "23",
+            "dataVencimento": "17/07/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "11,884.47",
+            "saldoDevedor": "276,864.64",
+            "juros": "5,220.53",
+            "amortizacao": "4,950.95",
+            "principal": "269,193.95"
+          },
+          {
+            "idParcela": "24",
+            "dataVencimento": "17/08/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "12,112.87",
+            "saldoDevedor": "274,367.39",
+            "juros": "5,173.44",
+            "amortizacao": "4,857.60",
+            "principal": "266,696.71"
+          },
+          {
+            "idParcela": "25",
+            "dataVencimento": "17/09/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "12,345.66",
+            "saldoDevedor": "271,822.15",
+            "juros": "5,125.45",
+            "amortizacao": "4,766.00",
+            "principal": "264,151.47"
+          },
+          {
+            "idParcela": "26",
+            "dataVencimento": "17/10/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "12,582.92",
+            "saldoDevedor": "269,228.00",
+            "juros": "5,076.53",
+            "amortizacao": "4,676.14",
+            "principal": "261,557.31"
+          },
+          {
+            "idParcela": "27",
+            "dataVencimento": "17/11/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "12,824.74",
+            "saldoDevedor": "266,583.99",
+            "juros": "5,026.68",
+            "amortizacao": "4,587.96",
+            "principal": "258,913.30"
+          },
+          {
+            "idParcela": "28",
+            "dataVencimento": "17/12/2024",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "13,071.21",
+            "saldoDevedor": "263,889.16",
+            "juros": "4,975.86",
+            "amortizacao": "4,501.45",
+            "principal": "256,218.48"
+          },
+          {
+            "idParcela": "29",
+            "dataVencimento": "17/01/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "13,322.42",
+            "saldoDevedor": "261,142.55",
+            "juros": "4,924.07",
+            "amortizacao": "4,416.57",
+            "principal": "253,471.86"
+          },
+          {
+            "idParcela": "30",
+            "dataVencimento": "17/02/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "13,578.45",
+            "saldoDevedor": "258,343.15",
+            "juros": "4,871.29",
+            "amortizacao": "4,333.30",
+            "principal": "250,672.46"
+          },
+          {
+            "idParcela": "31",
+            "dataVencimento": "17/03/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "13,839.40",
+            "saldoDevedor": "255,489.95",
+            "juros": "4,817.49",
+            "amortizacao": "4,251.59",
+            "principal": "247,819.26"
+          },
+          {
+            "idParcela": "32",
+            "dataVencimento": "17/04/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "14,105.37",
+            "saldoDevedor": "252,581.92",
+            "juros": "4,762.66",
+            "amortizacao": "4,171.42",
+            "principal": "244,911.23"
+          },
+          {
+            "idParcela": "33",
+            "dataVencimento": "17/05/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "14,376.45",
+            "saldoDevedor": "249,618.00",
+            "juros": "4,706.77",
+            "amortizacao": "4,092.77",
+            "principal": "241,947.31"
+          },
+          {
+            "idParcela": "34",
+            "dataVencimento": "17/06/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "14,652.74",
+            "saldoDevedor": "246,597.12",
+            "juros": "4,649.81",
+            "amortizacao": "4,015.59",
+            "principal": "238,926.43"
+          },
+          {
+            "idParcela": "35",
+            "dataVencimento": "17/07/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "14,934.34",
+            "saldoDevedor": "243,518.18",
+            "juros": "4,591.75",
+            "amortizacao": "3,939.87",
+            "principal": "235,847.49"
+          },
+          {
+            "idParcela": "36",
+            "dataVencimento": "17/08/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "15,221.36",
+            "saldoDevedor": "240,380.07",
+            "juros": "4,532.58",
+            "amortizacao": "3,865.59",
+            "principal": "232,709.38"
+          },
+          {
+            "idParcela": "37",
+            "dataVencimento": "17/09/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "15,513.88",
+            "saldoDevedor": "237,181.65",
+            "juros": "4,472.27",
+            "amortizacao": "3,792.70",
+            "principal": "229,510.97"
+          },
+          {
+            "idParcela": "38",
+            "dataVencimento": "17/10/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "15,812.03",
+            "saldoDevedor": "233,921.77",
+            "juros": "4,410.80",
+            "amortizacao": "3,721.18",
+            "principal": "226,251.08"
+          },
+          {
+            "idParcela": "39",
+            "dataVencimento": "17/11/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "16,115.91",
+            "saldoDevedor": "230,599.23",
+            "juros": "4,348.15",
+            "amortizacao": "3,651.02",
+            "principal": "222,928.54"
+          },
+          {
+            "idParcela": "40",
+            "dataVencimento": "17/12/2025",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "16,425.63",
+            "saldoDevedor": "227,212.84",
+            "juros": "4,284.30",
+            "amortizacao": "3,582.17",
+            "principal": "219,542.16"
+          },
+          {
+            "idParcela": "41",
+            "dataVencimento": "17/01/2026",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "16,741.30",
+            "saldoDevedor": "223,761.37",
+            "juros": "4,219.22",
+            "amortizacao": "3,514.63",
+            "principal": "216,090.69"
+          },
+          {
+            "idParcela": "42",
+            "dataVencimento": "17/02/2026",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "17,063.04",
+            "saldoDevedor": "220,243.57",
+            "juros": "4,152.89",
+            "amortizacao": "3,448.36",
+            "principal": "212,572.89"
+          },
+          {
+            "idParcela": "43",
+            "dataVencimento": "17/03/2026",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "17,390.97",
+            "saldoDevedor": "216,658.17",
+            "juros": "4,085.28",
+            "amortizacao": "3,383.33",
+            "principal": "208,987.48"
+          },
+          {
+            "idParcela": "44",
+            "dataVencimento": "17/04/2026",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "17,725.19",
+            "saldoDevedor": "213,003.86",
+            "juros": "4,016.38",
+            "amortizacao": "3,319.54",
+            "principal": "205,333.17"
+          },
+          {
+            "idParcela": "45",
+            "dataVencimento": "17/05/2026",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "18,065.84",
+            "saldoDevedor": "209,279.31",
+            "juros": "3,946.15",
+            "amortizacao": "3,256.95",
+            "principal": "201,608.63"
+          },
+          {
+            "idParcela": "46",
+            "dataVencimento": "17/06/2026",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "18,413.03",
+            "saldoDevedor": "205,483.19",
+            "juros": "3,874.57",
+            "amortizacao": "3,195.53",
+            "principal": "197,812.51"
+          },
+          {
+            "idParcela": "47",
+            "dataVencimento": "17/07/2026",
+            "pmtTotal": "7,670.69",
+            "valorPresente": "18,766.90",
+            "saldoDevedor": "201,614.12",
+            "juros": "3,801.61",
+            "amortizacao": "3,135.28",
+            "principal": "193,943.43"
+          },
+          {
+            "idParcela": "48",
+            "dataVencimento": "17/08/2026",
+            "pmtTotal": "197,670.69",
+            "valorPresente": "492,910.04",
+            "saldoDevedor": "197,670.69",
+            "juros": "3,727.26",
+            "amortizacao": "79,271.46",
+            "principal": "0.00"
+          }
+        ],
+        "listaFluxoFatores": [
+          {
+            "idParcela": "1",
+            "dataVencimento": "17/09/2022",
+            "fatorJuros": "1.01921826",
+            "fator1SobreX": "0.98114412",
+            "periodoDesagiado": "0.98114412",
+            "iofDevido": "19.13",
+            "iofPrazo": "31",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "2",
+            "dataVencimento": "17/10/2022",
+            "fatorJuros": "1.03880586",
+            "fator1SobreX": "0.96264378",
+            "periodoDesagiado": "0.96264378",
+            "iofDevido": "36.94",
+            "iofPrazo": "61",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "3",
+            "dataVencimento": "17/11/2022",
+            "fatorJuros": "1.05876990",
+            "fator1SobreX": "0.94449228",
+            "periodoDesagiado": "0.94449228",
+            "iofDevido": "54.66",
+            "iofPrazo": "92",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "4",
+            "dataVencimento": "17/12/2022",
+            "fatorJuros": "1.07911762",
+            "fator1SobreX": "0.92668304",
+            "periodoDesagiado": "0.92668305",
+            "iofDevido": "71.11",
+            "iofPrazo": "122",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "5",
+            "dataVencimento": "17/01/2023",
+            "fatorJuros": "1.09985638",
+            "fator1SobreX": "0.90920962",
+            "periodoDesagiado": "0.90920962",
+            "iofDevido": "87.50",
+            "iofPrazo": "153",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "6",
+            "dataVencimento": "17/02/2023",
+            "fatorJuros": "1.12099371",
+            "fator1SobreX": "0.89206567",
+            "periodoDesagiado": "0.89206567",
+            "iofDevido": "103.24",
+            "iofPrazo": "184",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "7",
+            "dataVencimento": "17/03/2023",
+            "fatorJuros": "1.14253725",
+            "fator1SobreX": "0.87524498",
+            "periodoDesagiado": "0.87524498",
+            "iofDevido": "116.71",
+            "iofPrazo": "212",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "8",
+            "dataVencimento": "17/04/2023",
+            "fatorJuros": "1.16449483",
+            "fator1SobreX": "0.85874147",
+            "periodoDesagiado": "0.85874147",
+            "iofDevido": "131.26",
+            "iofPrazo": "243",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "9",
+            "dataVencimento": "17/05/2023",
+            "fatorJuros": "1.18687440",
+            "fator1SobreX": "0.84254914",
+            "periodoDesagiado": "0.84254914",
+            "iofDevido": "144.68",
+            "iofPrazo": "273",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "10",
+            "dataVencimento": "17/06/2023",
+            "fatorJuros": "1.20968406",
+            "fator1SobreX": "0.82666213",
+            "periodoDesagiado": "0.82666213",
+            "iofDevido": "158.07",
+            "iofPrazo": "304",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "11",
+            "dataVencimento": "17/07/2023",
+            "fatorJuros": "1.23293208",
+            "fator1SobreX": "0.81107469",
+            "periodoDesagiado": "0.81107469",
+            "iofDevido": "170.39",
+            "iofPrazo": "334",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "12",
+            "dataVencimento": "17/08/2023",
+            "fatorJuros": "1.25662689",
+            "fator1SobreX": "0.79578116",
+            "periodoDesagiado": "0.79578116",
+            "iofDevido": "182.70",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "13",
+            "dataVencimento": "17/09/2023",
+            "fatorJuros": "1.28077707",
+            "fator1SobreX": "0.78077600",
+            "periodoDesagiado": "0.78077600",
+            "iofDevido": "179.25",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "14",
+            "dataVencimento": "17/10/2023",
+            "fatorJuros": "1.30539138",
+            "fator1SobreX": "0.76605378",
+            "periodoDesagiado": "0.76605378",
+            "iofDevido": "175.87",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "15",
+            "dataVencimento": "17/11/2023",
+            "fatorJuros": "1.33047873",
+            "fator1SobreX": "0.75160916",
+            "periodoDesagiado": "0.75160916",
+            "iofDevido": "172.56",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "16",
+            "dataVencimento": "17/12/2023",
+            "fatorJuros": "1.35604822",
+            "fator1SobreX": "0.73743690",
+            "periodoDesagiado": "0.73743691",
+            "iofDevido": "169.30",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "17",
+            "dataVencimento": "17/01/2024",
+            "fatorJuros": "1.38210910",
+            "fator1SobreX": "0.72353188",
+            "periodoDesagiado": "0.72353188",
+            "iofDevido": "166.11",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "18",
+            "dataVencimento": "17/02/2024",
+            "fatorJuros": "1.40867084",
+            "fator1SobreX": "0.70988905",
+            "periodoDesagiado": "0.70988905",
+            "iofDevido": "162.98",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "19",
+            "dataVencimento": "17/03/2024",
+            "fatorJuros": "1.43574304",
+            "fator1SobreX": "0.69650346",
+            "periodoDesagiado": "0.69650346",
+            "iofDevido": "159.91",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "20",
+            "dataVencimento": "17/04/2024",
+            "fatorJuros": "1.46333552",
+            "fator1SobreX": "0.68337028",
+            "periodoDesagiado": "0.68337028",
+            "iofDevido": "156.89",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "21",
+            "dataVencimento": "17/05/2024",
+            "fatorJuros": "1.49145828",
+            "fator1SobreX": "0.67048473",
+            "periodoDesagiado": "0.67048473",
+            "iofDevido": "153.93",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "22",
+            "dataVencimento": "17/06/2024",
+            "fatorJuros": "1.52012152",
+            "fator1SobreX": "0.65784215",
+            "periodoDesagiado": "0.65784215",
+            "iofDevido": "151.03",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "23",
+            "dataVencimento": "17/07/2024",
+            "fatorJuros": "1.54933561",
+            "fator1SobreX": "0.64543795",
+            "periodoDesagiado": "0.64543795",
+            "iofDevido": "148.18",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "24",
+            "dataVencimento": "17/08/2024",
+            "fatorJuros": "1.57911114",
+            "fator1SobreX": "0.63326765",
+            "periodoDesagiado": "0.63326765",
+            "iofDevido": "145.39",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "25",
+            "dataVencimento": "17/09/2024",
+            "fatorJuros": "1.60945891",
+            "fator1SobreX": "0.62132683",
+            "periodoDesagiado": "0.62132683",
+            "iofDevido": "142.65",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "26",
+            "dataVencimento": "17/10/2024",
+            "fatorJuros": "1.64038991",
+            "fator1SobreX": "0.60961116",
+            "periodoDesagiado": "0.60961116",
+            "iofDevido": "139.96",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "27",
+            "dataVencimento": "17/11/2024",
+            "fatorJuros": "1.67191535",
+            "fator1SobreX": "0.59811641",
+            "periodoDesagiado": "0.59811641",
+            "iofDevido": "137.32",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "28",
+            "dataVencimento": "17/12/2024",
+            "fatorJuros": "1.70404665",
+            "fator1SobreX": "0.58683839",
+            "periodoDesagiado": "0.58683839",
+            "iofDevido": "134.73",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "29",
+            "dataVencimento": "17/01/2025",
+            "fatorJuros": "1.73679546",
+            "fator1SobreX": "0.57577304",
+            "periodoDesagiado": "0.57577304",
+            "iofDevido": "132.19",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "30",
+            "dataVencimento": "17/02/2025",
+            "fatorJuros": "1.77017365",
+            "fator1SobreX": "0.56491633",
+            "periodoDesagiado": "0.56491633",
+            "iofDevido": "129.70",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "31",
+            "dataVencimento": "17/03/2025",
+            "fatorJuros": "1.80419331",
+            "fator1SobreX": "0.55426433",
+            "periodoDesagiado": "0.55426433",
+            "iofDevido": "127.25",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "32",
+            "dataVencimento": "17/04/2025",
+            "fatorJuros": "1.83886676",
+            "fator1SobreX": "0.54381319",
+            "periodoDesagiado": "0.54381319",
+            "iofDevido": "124.85",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "33",
+            "dataVencimento": "17/05/2025",
+            "fatorJuros": "1.87420658",
+            "fator1SobreX": "0.53355911",
+            "periodoDesagiado": "0.53355911",
+            "iofDevido": "122.50",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "34",
+            "dataVencimento": "17/06/2025",
+            "fatorJuros": "1.91022557",
+            "fator1SobreX": "0.52349838",
+            "periodoDesagiado": "0.52349838",
+            "iofDevido": "120.19",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "35",
+            "dataVencimento": "17/07/2025",
+            "fatorJuros": "1.94693678",
+            "fator1SobreX": "0.51362736",
+            "periodoDesagiado": "0.51362736",
+            "iofDevido": "117.92",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "36",
+            "dataVencimento": "17/08/2025",
+            "fatorJuros": "1.98435352",
+            "fator1SobreX": "0.50394246",
+            "periodoDesagiado": "0.50394246",
+            "iofDevido": "115.70",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "37",
+            "dataVencimento": "17/09/2025",
+            "fatorJuros": "2.02248934",
+            "fator1SobreX": "0.49444018",
+            "periodoDesagiado": "0.49444018",
+            "iofDevido": "113.52",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "38",
+            "dataVencimento": "17/10/2025",
+            "fatorJuros": "2.06135807",
+            "fator1SobreX": "0.48511708",
+            "periodoDesagiado": "0.48511708",
+            "iofDevido": "111.37",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "39",
+            "dataVencimento": "17/11/2025",
+            "fatorJuros": "2.10097378",
+            "fator1SobreX": "0.47596976",
+            "periodoDesagiado": "0.47596977",
+            "iofDevido": "109.27",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "40",
+            "dataVencimento": "17/12/2025",
+            "fatorJuros": "2.14135085",
+            "fator1SobreX": "0.46699493",
+            "periodoDesagiado": "0.46699494",
+            "iofDevido": "107.21",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "41",
+            "dataVencimento": "17/01/2026",
+            "fatorJuros": "2.18250388",
+            "fator1SobreX": "0.45818933",
+            "periodoDesagiado": "0.45818933",
+            "iofDevido": "105.19",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "42",
+            "dataVencimento": "17/02/2026",
+            "fatorJuros": "2.22444781",
+            "fator1SobreX": "0.44954977",
+            "periodoDesagiado": "0.44954977",
+            "iofDevido": "103.21",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "43",
+            "dataVencimento": "17/03/2026",
+            "fatorJuros": "2.26719783",
+            "fator1SobreX": "0.44107311",
+            "periodoDesagiado": "0.44107311",
+            "iofDevido": "101.26",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "44",
+            "dataVencimento": "17/04/2026",
+            "fatorJuros": "2.31076942",
+            "fator1SobreX": "0.43275629",
+            "periodoDesagiado": "0.43275629",
+            "iofDevido": "99.35",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "45",
+            "dataVencimento": "17/05/2026",
+            "fatorJuros": "2.35517839",
+            "fator1SobreX": "0.42459629",
+            "periodoDesagiado": "0.42459629",
+            "iofDevido": "97.48",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "46",
+            "dataVencimento": "17/06/2026",
+            "fatorJuros": "2.40044082",
+            "fator1SobreX": "0.41659015",
+            "periodoDesagiado": "0.41659015",
+            "iofDevido": "95.64",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "47",
+            "dataVencimento": "17/07/2026",
+            "fatorJuros": "2.44657312",
+            "fator1SobreX": "0.40873497",
+            "periodoDesagiado": "0.40873497",
+            "iofDevido": "93.84",
+            "iofPrazo": "365",
+            "valorBalao": "0.00",
+            "valorPresenteBalao": "0.00"
+          },
+          {
+            "idParcela": "48",
+            "dataVencimento": "17/08/2026",
+            "fatorJuros": "2.49359199",
+            "fator1SobreX": "0.40102791",
+            "periodoDesagiado": "0.40102792",
+            "iofDevido": "2,372.59",
+            "iofPrazo": "365",
+            "valorBalao": "190,000.00",
+            "valorPresenteBalao": "76,195.30"
+          }
+        ],
+        "valorParcelaComIOF": "7,981.85761",
+        "valorParcelaSemIOF": "7,670.68735",
+        "valorIOF": "9,698.19",
+        "valorTaxaAnual": "25.66268900",
+        "valorFinanciamento": "324,964.44",
+        "valorTotalFinanciamento": "649,529.17",
+        "valorTaxaMes": "0.01921826",
+        "valorTaxaCetAnual": "27.59",
+        "valorSubsidio": "0",
+        "coeficienteParcela": "0.03208540",
+        "coeficienteIOF": "0.02694741",
+        "mensagem": "OK. "
+      }
+    }
+  ]
+}
