@@ -6,15 +6,9 @@ SPF - Seguro de Protecao Financeira
 SPF Plus - Seguro de Protecao Financeira Plus
 direct - é o nome do sistema interno
 -----------------------------------------------------------------------------------------------------------------------------------------------
- 
-Anotações e observações sobre essa etapa passada no refinamento
-
-
-  
------------------------------------------------------------------------------------------------------------------------------------------------ 
 
 historia do jira
-História 2 – Verificar Elegibilidade Cliente
+História 2 – Verificar Elegibilidade Cliente Pessoa Juridica
 
 Key details
 para pessoa juridica, vamos ofertar seguro prestamista no direct (direct é o nome do sistema interno)
