@@ -139,4 +139,16 @@ public class ParametrosDeSeguroPrestamista {
 	@JsonProperty("id-seguro-escolhido")
 	private Integer idSeguroEscolhido;
 
+	@Schema(name = "cpf-cnpj-cliente", description = "CPF/CNPJ do cliente para consulta de elegibilidade.", example = "11222333000181")
+	@JsonProperty("cpf-cnpj-cliente")
+	private String cpfCnpjCliente;
+
+	@Schema(name = "canal-origem", description = "Canal de origem da simulação.", example = "DIRECT")
+	@JsonProperty("canal-origem")
+	private String canalOrigem;
+
+	@Schema(name = "chave-origem", description = "Chave de correlação da origem para serviços de seguro.", example = "SIMULACAO-TESTE-001")
+	@JsonProperty("chave-origem")
+	private String chaveOrigem;
+
 }
