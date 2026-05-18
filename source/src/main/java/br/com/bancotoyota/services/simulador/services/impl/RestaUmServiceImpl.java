@@ -133,13 +133,18 @@ public class RestaUmServiceImpl implements RestaUmService {
 
 
         Saida saida = new Saida();
-        // seguro prestamista só é usado para pessoa física
-        if (configuracao.getTipoPessoa() == TipoPessoa.PESSOA_FISICA) {
+        if (configuracao.getTipoPessoa() == TipoPessoa.PESSOA_FISICA
+                || configuracao.getTipoPessoa() == TipoPessoa.PESSOA_JURIDICA) {
             ParametrosDeSeguroPrestamista parametrosDeSeguroPrestamista = new ParametrosDeSeguroPrestamista();
 
-            parametrosDeSeguroPrestamista.setSpfDisponivel(origemNegocio.getSpfDisponivel());
+            boolean pessoaFisica = configuracao.getTipoPessoa() == TipoPessoa.PESSOA_FISICA;
+            parametrosDeSeguroPrestamista.setSpfDisponivel(pessoaFisica && origemNegocio.getSpfDisponivel());
             parametrosDeSeguroPrestamista.setSvpDisponivel(origemNegocio.getSvpDisponivel());
             parametrosDeSeguroPrestamista.setSvpSeSpfRemovido(origemNegocio.getSvpSeSpfRemovido());
+            parametrosDeSeguroPrestamista.setCnpjOrigemNegocio(origemNegocio.getCnpj());
+            parametrosDeSeguroPrestamista.setCpfCnpjCliente(request.getCpfCnpjCliente());
+            parametrosDeSeguroPrestamista.setCanalOrigem("DIRECT");
+            parametrosDeSeguroPrestamista.setChaveOrigem("SIMUL-" + System.currentTimeMillis());
 
             parametrosDeSeguroPrestamista.setSpfRemovido(
                     request.getSpfRemovido() != null && request.getSpfRemovido());
@@ -149,7 +154,7 @@ public class RestaUmServiceImpl implements RestaUmService {
             simulacaoRequest.setParametrosDeSeguroPrestamista(parametrosDeSeguroPrestamista);
 
             ValorComprometidoSeguroPrestamista.ClienteComprometimentoSeguro clienteComprometimentoSeguro = null;
-            if (request.getCpfCnpjCliente() != null) {
+            if (pessoaFisica && request.getCpfCnpjCliente() != null) {
                 clienteComprometimentoSeguro = clientService.getValoresComprometidos(request.getCpfCnpjCliente());
             }
             if (clienteComprometimentoSeguro != null) {
